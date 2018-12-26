@@ -10,39 +10,35 @@ const Skills = () => (
 
     <div className="nine columns main-col">
       <p>
-        Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-        accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab
-        illo inventore veritatis et quasi architecto beatae vitae dicta sunt
-        explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut
-        odit aut fugit, sed quia consequuntur magni dolores eos qui ratione
-        voluptatem sequi nesciunt.
+        I consider myself a T-shaped developer, which meand I have knowledge 
+        in a wide variety of languages and platforms, and I specialize in a specific area
       </p>
 
       <div className="bars">
         <ul className="skills">
           <li>
-            <span className="bar-expand photoshop" />
-            <em>Photoshop</em>
-          </li>
-          <li>
-            <span className="bar-expand illustrator" />
-            <em>Illustrator</em>
-          </li>
-          <li>
-            <span className="bar-expand wordpress" />
-            <em>Wordpress</em>
+            <span className="bar-expand html5" />
+            <em>HTML5</em>
           </li>
           <li>
             <span className="bar-expand css" />
             <em>CSS</em>
           </li>
           <li>
-            <span className="bar-expand html5" />
-            <em>HTML5</em>
+            <span className="bar-expand javascript" />
+            <em>Javascript</em>
           </li>
           <li>
-            <span className="bar-expand nodejs" />
-            <em>Nodejs</em>
+            <span className="bar-expand react" />
+            <em>React</em>
+          </li>
+          <li>
+            <span className="bar-expand redux" />
+            <em>Redux</em>
+          </li>
+          <li>
+            <span className="bar-expand back-end" />
+            <em>Back-End (APIs, Databases, Axios)</em>
           </li>
         </ul>
       </div>

@@ -11,41 +11,33 @@ const Work = () => (
     <div className="nine columns main-col">
       <div className="row item">
         <div className="twelve columns">
-          <h3>Awesome Design Studio</h3>
+          <h3>Lambda</h3>
           <p className="info">
-            Senior UX Designer
+            Project Manager
             <span>&bull;</span>
             <em className="date">March 2010 - Present</em>
           </p>
 
           <p>
-            Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
-            commodo ligula eget dolor. Aenean massa. Cum sociis natoque
-            penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-            Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-            Nulla consequat massa quis enim. Donec pede justo, fringilla vel,
-            aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede
-            mollis pretium.
+          As a Project Manager with Lambda, I oversaw 10-5 students as they learned full-stack web development,
+           managing attendance, participation, and progress of each student.
+          I was tasked with reviewing the code of each student for accuracy and recommending changes, if necessary. 
+          I also led workshops on with students on specific subjects, answering any questions they had on the topics I covered.
           </p>
         </div>
       </div>
 
       <div className="row item">
         <div className="twelve columns">
-          <h3>Super Cool Studio</h3>
+          <h3>Management Experience</h3>
           <p className="info">
-            UX Designer
+            24/7InTouch Contact Center
             <span>&bull;</span>
             <em className="date">March 2007 - February 2010</em>
           </p>
 
           <p>
-            This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel
-            velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum
-            auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.
-            Duis sed odio sit amet nibh vulputate cursus a sit amet mauris.
-            Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a
-            ornare odio. Sed non mauris vitae erat
+          In addition to my Web Development Experience, I have over three years of management experience. blah blach blah.
           </p>
         </div>
       </div>

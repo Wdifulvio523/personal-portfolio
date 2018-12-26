@@ -23,7 +23,7 @@ const Portfolio = () => (
   <section id="portfolio">
     <div className="row">
       <div className="twelve columns collapsed">
-        <h1>Check Out Some of My Works.</h1>
+        <h1>Check Out Some of My Works</h1>
 
         <div
           id="portfolio-wrapper"
@@ -35,8 +35,9 @@ const Portfolio = () => (
                 <img alt="" src={Coffee} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
-                    <h5>Coffee</h5>
-                    <p>Illustrration</p>
+                    <h5>React</h5>
+                    <p>Full-Stack Notes Application using React front-end 
+                      and fully-functional backend </p>
                   </div>
                 </div>
                 <div className="link-icon">

@@ -2,9 +2,10 @@ import React from "react";
 import {
   FaFacebook,
   FaGithub,
+  FaSkype,
   FaGooglePlus,
-  FaInstagram,
-  FaTwitter
+  FaTwitter,
+  FaLinkedinSquare
 } from "react-icons/lib/fa";
 // https://gorangajic.github.io/react-icons/fa.html
 
@@ -26,12 +27,12 @@ const SocialLinks = () => (
       </a>
     </li>
     <li>
-      <a href="#">
-        <FaInstagram />
+      <a href="https://linkedin.com/in/william-difulvio">
+        <FaLinkedinSquare />
       </a>
     </li>
     <li>
-      <a href="#">
+      <a href="https://github.com/Wdifulvio523">
         <FaGithub />
       </a>
     </li>

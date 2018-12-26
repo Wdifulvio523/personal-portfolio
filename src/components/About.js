@@ -27,16 +27,16 @@ const About = () => (
           <div className="columns contact-details">
             <h2>Contact Details</h2>
             <p className="address">
-              <span>Jonathan Doe</span>
+              <span>William DiFulvio Jr.</span>
               <br />
               <span>
-                1600 Amphitheatre Parkway
-                <br /> Mountain View, CA 94043 US
+                3431 Astoria Ct
+                <br /> Winter Park, FL 32792
               </span>
               <br />
-              <span>(123)456-7890</span>
+              <span>(386)717-1109</span>
               <br />
-              <span>anyone@website.com</span>
+              <span>w.difulvio523@gmail.com</span>
             </p>
           </div>
           <div className="columns download">

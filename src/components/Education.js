@@ -11,41 +11,35 @@ const Education = () => (
     <div className="nine columns main-col">
       <div className="row item">
         <div className="twelve columns">
-          <h3>University of Life</h3>
+          <h3>Lambda School</h3>
           <p className="info">
-            Master in Graphic Design
+            Lambda Certificate of Completion - Full-Stack Web Dev/Computer Science
             <span>&bull;</span>
-            <em className="date">April 2007</em>
+            <em className="date">March 2019</em>
           </p>
 
           <p>
-            Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
-            commodo ligula eget dolor. Aenean massa. Cum sociis natoque
-            penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-            Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-            Nulla consequat massa quis enim. Donec pede justo, fringilla vel,
-            aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede
-            mollis pretium.
+            Lambda School is where I gained the bulk of my Web Development and Computer science knowledge.
+            HEre is more info blah blach blah blahblah blach blah blahblah blach blah blahblah blach blah blah
+            blah blach blah blahblah blach blah blah
           </p>
         </div>
       </div>
 
       <div className="row item">
         <div className="twelve columns">
-          <h3>School of Cool Designers</h3>
+          <h3>Pennsylvania State University</h3>
           <p className="info">
-            B.A. Degree in Graphic Design
+            Bachelor's of Science Degree - Economics
             <span>&bull;</span>
-            <em className="date">March 2003</em>
+            <em className="date">May 2011</em>
           </p>
 
           <p>
-            This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel
-            velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum
-            auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.
-            Duis sed odio sit amet nibh vulputate cursus a sit amet mauris.
-            Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a
-            ornare odio. Sed non mauris vitae erat
+            Her is some information about Penn State blach blah blach blah blahblah blach blah blahblah blach blah blah
+            blah blach blah blahblah blach blah blahblah blach blah blahblah blach blah blah
+            blah blach blah blahblah blach blah blahblah blach blah blahblah blach blah blah
+            blah blach blah blahblah blach blah blahblah blach blah blahblah blach blah blah
           </p>
         </div>
       </div>
