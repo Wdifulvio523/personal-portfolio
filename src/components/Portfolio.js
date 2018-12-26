@@ -36,8 +36,7 @@ const Portfolio = () => (
                 <div className="overlay">
                   <div className="portfolio-item-meta">
                     <h5>React</h5>
-                    <p>Full-Stack Notes Application using React front-end 
-                      and fully-functional backend </p>
+                    <p>Full-Stack Notes Application  </p>
                   </div>
                 </div>
                 <div className="link-icon">
@@ -178,17 +177,16 @@ const Portfolio = () => (
         <div className="description-box">
           <h4>Coffee Cup</h4>
           <p>
-            Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin,
-            lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis
-            sem nibh id elit.
+          Full-Stack Notes Application using React front-end
+          and fully-functional backend.
           </p>
           <span className="categories">
-            <FaTag /> Branding, Webdesign
+            <FaTag /> Full-Stack, React, Front-End, Back-End 
           </span>
         </div>
 
         <div className="link-box">
-          <a href="http://www.behance.net">Details</a>
+          <a href="https://difulvionotes.netlify.com" target="_blank">Details</a>
           <a href="#portfolio" className="popup-modal-dismiss">Close</a>
         </div>
       </div>

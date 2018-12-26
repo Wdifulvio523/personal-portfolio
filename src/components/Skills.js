@@ -38,7 +38,7 @@ const Skills = () => (
           </li>
           <li>
             <span className="bar-expand back-end" />
-            <em>Back-End (APIs, Databases, Axios)</em>
+            <em>Back-End (API, Database, Axios)</em>
           </li>
         </ul>
       </div>

@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "cabf5ce1995323a5b85405200aa3521a",
+        "contentDigest": "704388d3ba204ad2cc0d68c0dce02358",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
@@ -1047,7 +1047,7 @@
       "resolve": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
-      "version": "a92325b16005be4cee9829690210fe3f",
+      "version": "d0b7d6286666873bab3d608e997f4d6b",
       "pluginOptions": {
         "plugins": []
       },
@@ -1152,7 +1152,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "66f21d6cc87b97e1875bb7b148fb277c",
+        "contentDigest": "18066b58985f826778254f734accf4ff",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -1244,13 +1244,14 @@
       },
       "port": "8000",
       "host": "localhost",
-      "pathPrefix": "/",
-      "buildTime": "2018-12-20T23:27:47.153Z",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2018-12-26T19:54:29.760Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "af3d2909947fcac75b68aabf997f2693",
+        "contentDigest": "bb0e4973559b84e0541ae038021395bd",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1260,7 +1261,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "d773a5880be9b4fe3300b454eac64894",
+        "contentDigest": "71fa21b74a46bb5921e8623fe271c6cf",
         "type": "Directory",
         "description": "Directory \"src/assets/images\"",
         "owner": "gatsby-source-filesystem"
@@ -1272,7 +1273,7 @@
       "size": 320,
       "prettySize": "320 B",
       "modifiedTime": "2018-12-20T22:50:08.614Z",
-      "accessTime": "2018-12-20T23:27:51.999Z",
+      "accessTime": "2018-12-26T19:54:32.944Z",
       "changeTime": "2018-12-20T22:50:08.614Z",
       "birthTime": "2018-12-20T22:50:08.588Z",
       "root": "/",
@@ -1290,11 +1291,11 @@
       "blksize": 4096,
       "ino": 12886019576,
       "blocks": 0,
-      "atimeMs": 1545348471998.666,
+      "atimeMs": 1545854072944.4146,
       "mtimeMs": 1545346208614.0767,
       "ctimeMs": 1545346208614.0767,
       "birthtimeMs": 1545346208588.3696,
-      "atime": "2018-12-20T23:27:51.999Z",
+      "atime": "2018-12-26T19:54:32.944Z",
       "mtime": "2018-12-20T22:50:08.614Z",
       "ctime": "2018-12-20T22:50:08.614Z",
       "birthtime": "2018-12-20T22:50:08.588Z"
@@ -1304,7 +1305,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "0b632d575136827a42a4bec38b5e94df",
+        "contentDigest": "aa346e7dd4142ae0f983f5152a068de2",
         "type": "Directory",
         "description": "Directory \"src/assets/images/portfolio\"",
         "owner": "gatsby-source-filesystem"
@@ -1316,7 +1317,7 @@
       "size": 352,
       "prettySize": "352 B",
       "modifiedTime": "2018-12-20T22:50:08.612Z",
-      "accessTime": "2018-12-20T23:27:52.004Z",
+      "accessTime": "2018-12-26T19:54:32.948Z",
       "changeTime": "2018-12-20T22:50:08.612Z",
       "birthTime": "2018-12-20T22:50:08.593Z",
       "root": "/",
@@ -1334,11 +1335,11 @@
       "blksize": 4096,
       "ino": 12886019581,
       "blocks": 0,
-      "atimeMs": 1545348472004.122,
+      "atimeMs": 1545854072948.0208,
       "mtimeMs": 1545346208612.048,
       "ctimeMs": 1545346208612.048,
       "birthtimeMs": 1545346208592.8794,
-      "atime": "2018-12-20T23:27:52.004Z",
+      "atime": "2018-12-26T19:54:32.948Z",
       "mtime": "2018-12-20T22:50:08.612Z",
       "ctime": "2018-12-20T22:50:08.612Z",
       "birthtime": "2018-12-20T22:50:08.593Z"
@@ -1348,7 +1349,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "b92a5243eda8c1f92d9281dfe844c4c6",
+        "contentDigest": "3db84614b65bad9c00ba82cf598ac8c1",
         "type": "Directory",
         "description": "Directory \"src/assets/images/portfolio/modals\"",
         "owner": "gatsby-source-filesystem"
@@ -1360,7 +1361,7 @@
       "size": 320,
       "prettySize": "320 B",
       "modifiedTime": "2018-12-20T22:50:08.609Z",
-      "accessTime": "2018-12-20T23:27:52.007Z",
+      "accessTime": "2018-12-26T19:54:32.950Z",
       "changeTime": "2018-12-20T22:50:08.609Z",
       "birthTime": "2018-12-20T22:50:08.599Z",
       "root": "/",
@@ -1378,11 +1379,11 @@
       "blksize": 4096,
       "ino": 12886019588,
       "blocks": 0,
-      "atimeMs": 1545348472007.2932,
+      "atimeMs": 1545854072949.5173,
       "mtimeMs": 1545346208609.352,
       "ctimeMs": 1545346208609.352,
       "birthtimeMs": 1545346208599.211,
-      "atime": "2018-12-20T23:27:52.007Z",
+      "atime": "2018-12-26T19:54:32.950Z",
       "mtime": "2018-12-20T22:50:08.609Z",
       "ctime": "2018-12-20T22:50:08.609Z",
       "birthtime": "2018-12-20T22:50:08.599Z"
@@ -1434,34 +1435,32 @@
       "ctime": "2018-12-20T22:50:08.593Z",
       "birthtime": "2018-12-20T22:50:08.592Z"
     },
-    "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/profilepic.jpg absPath of file": {
-      "id": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/profilepic.jpg absPath of file",
-      "children": [
-        "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/profilepic.jpg absPath of file >> ImageSharp"
-      ],
+    "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/loader.gif absPath of file": {
+      "id": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/loader.gif absPath of file",
+      "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "7e773edecdc38561e4d4bcd2606811f3",
-        "mediaType": "image/jpeg",
+        "contentDigest": "b41bfcf37a8a365d2c101c9931bc0e75",
+        "mediaType": "image/gif",
         "type": "File",
-        "description": "File \"src/assets/images/profilepic.jpg\"",
+        "description": "File \"src/assets/images/loader.gif\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "images",
-      "absolutePath": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/profilepic.jpg",
-      "relativePath": "profilepic.jpg",
-      "extension": "jpg",
-      "size": 6766,
-      "prettySize": "6.77 kB",
-      "modifiedTime": "2018-12-20T22:50:08.613Z",
-      "accessTime": "2018-12-20T22:52:36.765Z",
-      "changeTime": "2018-12-20T22:50:08.613Z",
-      "birthTime": "2018-12-20T22:50:08.613Z",
+      "absolutePath": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/loader.gif",
+      "relativePath": "loader.gif",
+      "extension": "gif",
+      "size": 3256,
+      "prettySize": "3.26 kB",
+      "modifiedTime": "2018-12-20T22:50:08.592Z",
+      "accessTime": "2018-12-20T22:52:36.763Z",
+      "changeTime": "2018-12-20T22:50:08.592Z",
+      "birthTime": "2018-12-20T22:50:08.592Z",
       "root": "/",
       "dir": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images",
-      "base": "profilepic.jpg",
-      "ext": ".jpg",
-      "name": "profilepic",
+      "base": "loader.gif",
+      "ext": ".gif",
+      "name": "loader",
       "relativeDirectory": "",
       "dev": 16777220,
       "mode": 33261,
@@ -1470,16 +1469,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 12886019599,
-      "blocks": 16,
-      "atimeMs": 1545346356765.1875,
-      "mtimeMs": 1545346208613.3352,
-      "ctimeMs": 1545346208613.3352,
-      "birthtimeMs": 1545346208613.2163,
-      "atime": "2018-12-20T22:52:36.765Z",
-      "mtime": "2018-12-20T22:50:08.613Z",
-      "ctime": "2018-12-20T22:50:08.613Z",
-      "birthtime": "2018-12-20T22:50:08.613Z"
+      "ino": 12886019578,
+      "blocks": 8,
+      "atimeMs": 1545346356763.3015,
+      "mtimeMs": 1545346208592.2915,
+      "ctimeMs": 1545346208592.2915,
+      "birthtimeMs": 1545346208592.1584,
+      "atime": "2018-12-20T22:52:36.763Z",
+      "mtime": "2018-12-20T22:50:08.592Z",
+      "ctime": "2018-12-20T22:50:08.592Z",
+      "birthtime": "2018-12-20T22:50:08.592Z"
     },
     "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/overlay-zoom.png absPath of file": {
       "id": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/overlay-zoom.png absPath of file",
@@ -1528,32 +1527,34 @@
       "ctime": "2018-12-20T22:50:08.593Z",
       "birthtime": "2018-12-20T22:50:08.593Z"
     },
-    "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/loader.gif absPath of file": {
-      "id": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/loader.gif absPath of file",
-      "children": [],
+    "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/profilepic.jpg absPath of file": {
+      "id": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/profilepic.jpg absPath of file",
+      "children": [
+        "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/profilepic.jpg absPath of file >> ImageSharp"
+      ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "b41bfcf37a8a365d2c101c9931bc0e75",
-        "mediaType": "image/gif",
+        "contentDigest": "7e773edecdc38561e4d4bcd2606811f3",
+        "mediaType": "image/jpeg",
         "type": "File",
-        "description": "File \"src/assets/images/loader.gif\"",
+        "description": "File \"src/assets/images/profilepic.jpg\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "images",
-      "absolutePath": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/loader.gif",
-      "relativePath": "loader.gif",
-      "extension": "gif",
-      "size": 3256,
-      "prettySize": "3.26 kB",
-      "modifiedTime": "2018-12-20T22:50:08.592Z",
-      "accessTime": "2018-12-20T22:52:36.763Z",
-      "changeTime": "2018-12-20T22:50:08.592Z",
-      "birthTime": "2018-12-20T22:50:08.592Z",
+      "absolutePath": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/profilepic.jpg",
+      "relativePath": "profilepic.jpg",
+      "extension": "jpg",
+      "size": 6766,
+      "prettySize": "6.77 kB",
+      "modifiedTime": "2018-12-20T22:50:08.613Z",
+      "accessTime": "2018-12-20T23:28:11.072Z",
+      "changeTime": "2018-12-20T22:50:08.613Z",
+      "birthTime": "2018-12-20T22:50:08.613Z",
       "root": "/",
       "dir": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images",
-      "base": "loader.gif",
-      "ext": ".gif",
-      "name": "loader",
+      "base": "profilepic.jpg",
+      "ext": ".jpg",
+      "name": "profilepic",
       "relativeDirectory": "",
       "dev": 16777220,
       "mode": 33261,
@@ -1562,16 +1563,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 12886019578,
-      "blocks": 8,
-      "atimeMs": 1545346356763.3015,
-      "mtimeMs": 1545346208592.2915,
-      "ctimeMs": 1545346208592.2915,
-      "birthtimeMs": 1545346208592.1584,
-      "atime": "2018-12-20T22:52:36.763Z",
-      "mtime": "2018-12-20T22:50:08.592Z",
-      "ctime": "2018-12-20T22:50:08.592Z",
-      "birthtime": "2018-12-20T22:50:08.592Z"
+      "ino": 12886019599,
+      "blocks": 16,
+      "atimeMs": 1545348491071.9204,
+      "mtimeMs": 1545346208613.3352,
+      "ctimeMs": 1545346208613.3352,
+      "birthtimeMs": 1545346208613.2163,
+      "atime": "2018-12-20T23:28:11.072Z",
+      "mtime": "2018-12-20T22:50:08.613Z",
+      "ctime": "2018-12-20T22:50:08.613Z",
+      "birthtime": "2018-12-20T22:50:08.613Z"
     },
     "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/sample-image.jpg absPath of file": {
       "id": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/sample-image.jpg absPath of file",
@@ -1667,53 +1668,6 @@
       "ctime": "2018-12-20T22:50:08.600Z",
       "birthtime": "2018-12-20T22:50:08.599Z"
     },
-    "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/coffee.jpg absPath of file": {
-      "id": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/coffee.jpg absPath of file",
-      "children": [
-        "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/coffee.jpg absPath of file >> ImageSharp"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "de06f5d908fc33bb083d947ca23d0a7f",
-        "mediaType": "image/jpeg",
-        "type": "File",
-        "description": "File \"src/assets/images/portfolio/coffee.jpg\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/coffee.jpg",
-      "relativePath": "portfolio/coffee.jpg",
-      "extension": "jpg",
-      "size": 75261,
-      "prettySize": "75.3 kB",
-      "modifiedTime": "2018-12-20T22:50:08.594Z",
-      "accessTime": "2018-12-20T22:52:36.763Z",
-      "changeTime": "2018-12-20T22:50:08.594Z",
-      "birthTime": "2018-12-20T22:50:08.593Z",
-      "root": "/",
-      "dir": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio",
-      "base": "coffee.jpg",
-      "ext": ".jpg",
-      "name": "coffee",
-      "relativeDirectory": "portfolio",
-      "dev": 16777220,
-      "mode": 33261,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 12886019582,
-      "blocks": 152,
-      "atimeMs": 1545346356763.492,
-      "mtimeMs": 1545346208593.5144,
-      "ctimeMs": 1545346208593.5144,
-      "birthtimeMs": 1545346208592.9768,
-      "atime": "2018-12-20T22:52:36.763Z",
-      "mtime": "2018-12-20T22:50:08.594Z",
-      "ctime": "2018-12-20T22:50:08.594Z",
-      "birthtime": "2018-12-20T22:50:08.593Z"
-    },
     "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/console.jpg absPath of file": {
       "id": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/console.jpg absPath of file",
       "children": [
@@ -1760,6 +1714,53 @@
       "mtime": "2018-12-20T22:50:08.594Z",
       "ctime": "2018-12-20T22:50:08.594Z",
       "birthtime": "2018-12-20T22:50:08.594Z"
+    },
+    "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/coffee.jpg absPath of file": {
+      "id": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/coffee.jpg absPath of file",
+      "children": [
+        "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/coffee.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "de06f5d908fc33bb083d947ca23d0a7f",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "description": "File \"src/assets/images/portfolio/coffee.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/coffee.jpg",
+      "relativePath": "portfolio/coffee.jpg",
+      "extension": "jpg",
+      "size": 75261,
+      "prettySize": "75.3 kB",
+      "modifiedTime": "2018-12-20T22:50:08.594Z",
+      "accessTime": "2018-12-20T22:52:36.763Z",
+      "changeTime": "2018-12-20T22:50:08.594Z",
+      "birthTime": "2018-12-20T22:50:08.593Z",
+      "root": "/",
+      "dir": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio",
+      "base": "coffee.jpg",
+      "ext": ".jpg",
+      "name": "coffee",
+      "relativeDirectory": "portfolio",
+      "dev": 16777220,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 12886019582,
+      "blocks": 152,
+      "atimeMs": 1545346356763.492,
+      "mtimeMs": 1545346208593.5144,
+      "ctimeMs": 1545346208593.5144,
+      "birthtimeMs": 1545346208592.9768,
+      "atime": "2018-12-20T22:52:36.763Z",
+      "mtime": "2018-12-20T22:50:08.594Z",
+      "ctime": "2018-12-20T22:50:08.594Z",
+      "birthtime": "2018-12-20T22:50:08.593Z"
     },
     "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/into-the-light.jpg absPath of file": {
       "id": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/into-the-light.jpg absPath of file",
@@ -1865,16 +1866,6 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/profilepic.jpg absPath of file >> ImageSharp": {
-      "id": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/profilepic.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/profilepic.jpg absPath of file",
-      "internal": {
-        "contentDigest": "7e773edecdc38561e4d4bcd2606811f3",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
     "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/overlay-zoom.png absPath of file >> ImageSharp": {
       "id": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/overlay-zoom.png absPath of file >> ImageSharp",
       "children": [],
@@ -1885,22 +1876,22 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
+    "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/profilepic.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/profilepic.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/profilepic.jpg absPath of file",
+      "internal": {
+        "contentDigest": "7e773edecdc38561e4d4bcd2606811f3",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
     "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/sample-image.jpg absPath of file >> ImageSharp": {
       "id": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/sample-image.jpg absPath of file >> ImageSharp",
       "children": [],
       "parent": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/sample-image.jpg absPath of file",
       "internal": {
         "contentDigest": "a6a76c7e087849f9223e1839338779e9",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-coffee.jpg absPath of file >> ImageSharp": {
-      "id": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-coffee.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-coffee.jpg absPath of file",
-      "internal": {
-        "contentDigest": "9a5510b73fa8e35066c047347b3e02e3",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
@@ -2019,7 +2010,7 @@
       "size": 190044,
       "prettySize": "190 kB",
       "modifiedTime": "2018-12-20T22:50:08.596Z",
-      "accessTime": "2018-12-20T22:52:36.764Z",
+      "accessTime": "2018-12-20T23:28:11.072Z",
       "changeTime": "2018-12-20T22:50:08.596Z",
       "birthTime": "2018-12-20T22:50:08.595Z",
       "root": "/",
@@ -2037,11 +2028,11 @@
       "blksize": 4096,
       "ino": 12886019584,
       "blocks": 376,
-      "atimeMs": 1545346356763.683,
+      "atimeMs": 1545348491072.1301,
       "mtimeMs": 1545346208596.026,
       "ctimeMs": 1545346208596.026,
       "birthtimeMs": 1545346208594.5352,
-      "atime": "2018-12-20T22:52:36.764Z",
+      "atime": "2018-12-20T23:28:11.072Z",
       "mtime": "2018-12-20T22:50:08.596Z",
       "ctime": "2018-12-20T22:50:08.596Z",
       "birthtime": "2018-12-20T22:50:08.595Z"
@@ -2093,12 +2084,12 @@
       "ctime": "2018-12-20T22:50:08.597Z",
       "birthtime": "2018-12-20T22:50:08.596Z"
     },
-    "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/coffee.jpg absPath of file >> ImageSharp": {
-      "id": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/coffee.jpg absPath of file >> ImageSharp",
+    "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-coffee.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-coffee.jpg absPath of file >> ImageSharp",
       "children": [],
-      "parent": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/coffee.jpg absPath of file",
+      "parent": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-coffee.jpg absPath of file",
       "internal": {
-        "contentDigest": "de06f5d908fc33bb083d947ca23d0a7f",
+        "contentDigest": "9a5510b73fa8e35066c047347b3e02e3",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
@@ -2109,6 +2100,16 @@
       "parent": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/console.jpg absPath of file",
       "internal": {
         "contentDigest": "10a557caba8bdbb1f030609c669e4314",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/coffee.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/coffee.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/coffee.jpg absPath of file",
+      "internal": {
+        "contentDigest": "de06f5d908fc33bb083d947ca23d0a7f",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
@@ -2133,6 +2134,53 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
+    "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/retrocam.jpg absPath of file": {
+      "id": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/retrocam.jpg absPath of file",
+      "children": [
+        "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/retrocam.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "522192d97b644075d576df8f7f58f3a0",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "description": "File \"src/assets/images/portfolio/retrocam.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/retrocam.jpg",
+      "relativePath": "portfolio/retrocam.jpg",
+      "extension": "jpg",
+      "size": 176219,
+      "prettySize": "176 kB",
+      "modifiedTime": "2018-12-20T22:50:08.613Z",
+      "accessTime": "2018-12-20T23:28:11.072Z",
+      "changeTime": "2018-12-20T22:50:08.613Z",
+      "birthTime": "2018-12-20T22:50:08.612Z",
+      "root": "/",
+      "dir": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio",
+      "base": "retrocam.jpg",
+      "ext": ".jpg",
+      "name": "retrocam",
+      "relativeDirectory": "portfolio",
+      "dev": 16777220,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 12886019598,
+      "blocks": 352,
+      "atimeMs": 1545348491072.2222,
+      "mtimeMs": 1545346208612.9915,
+      "ctimeMs": 1545346208612.9915,
+      "birthtimeMs": 1545346208612.0227,
+      "atime": "2018-12-20T23:28:11.072Z",
+      "mtime": "2018-12-20T22:50:08.613Z",
+      "ctime": "2018-12-20T22:50:08.613Z",
+      "birthtime": "2018-12-20T22:50:08.612Z"
+    },
     "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/judah.jpg absPath of file": {
       "id": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/judah.jpg absPath of file",
       "children": [
@@ -2153,7 +2201,7 @@
       "size": 197288,
       "prettySize": "197 kB",
       "modifiedTime": "2018-12-20T22:50:08.599Z",
-      "accessTime": "2018-12-20T22:52:36.764Z",
+      "accessTime": "2018-12-20T23:28:11.072Z",
       "changeTime": "2018-12-20T22:50:08.599Z",
       "birthTime": "2018-12-20T22:50:08.598Z",
       "root": "/",
@@ -2171,11 +2219,11 @@
       "blksize": 4096,
       "ino": 12886019587,
       "blocks": 392,
-      "atimeMs": 1545346356763.9465,
+      "atimeMs": 1545348491072.18,
       "mtimeMs": 1545346208599.0137,
       "ctimeMs": 1545346208599.0137,
       "birthtimeMs": 1545346208597.9856,
-      "atime": "2018-12-20T22:52:36.764Z",
+      "atime": "2018-12-20T23:28:11.072Z",
       "mtime": "2018-12-20T22:50:08.599Z",
       "ctime": "2018-12-20T22:50:08.599Z",
       "birthtime": "2018-12-20T22:50:08.598Z"
@@ -2220,193 +2268,15 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-console.jpg absPath of file": {
-      "id": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-console.jpg absPath of file",
-      "children": [
-        "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-console.jpg absPath of file >> ImageSharp"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "dc53e451be2267be73395b7022b23956",
-        "mediaType": "image/jpeg",
-        "type": "File",
-        "description": "File \"src/assets/images/portfolio/modals/m-console.jpg\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-console.jpg",
-      "relativePath": "portfolio/modals/m-console.jpg",
-      "extension": "jpg",
-      "size": 195994,
-      "prettySize": "196 kB",
-      "modifiedTime": "2018-12-20T22:50:08.601Z",
-      "accessTime": "2018-12-20T22:52:36.764Z",
-      "changeTime": "2018-12-20T22:50:08.601Z",
-      "birthTime": "2018-12-20T22:50:08.600Z",
-      "root": "/",
-      "dir": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals",
-      "base": "m-console.jpg",
-      "ext": ".jpg",
-      "name": "m-console",
-      "relativeDirectory": "portfolio/modals",
-      "dev": 16777220,
-      "mode": 33261,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 12886019590,
-      "blocks": 384,
-      "atimeMs": 1545346356764.1653,
-      "mtimeMs": 1545346208601.3625,
-      "ctimeMs": 1545346208601.3625,
-      "birthtimeMs": 1545346208600.1687,
-      "atime": "2018-12-20T22:52:36.764Z",
-      "mtime": "2018-12-20T22:50:08.601Z",
-      "ctime": "2018-12-20T22:50:08.601Z",
-      "birthtime": "2018-12-20T22:50:08.600Z"
-    },
-    "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-girl.jpg absPath of file": {
-      "id": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-girl.jpg absPath of file",
-      "children": [
-        "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-girl.jpg absPath of file >> ImageSharp"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "cca489424290988698ceb5e8c5552189",
-        "mediaType": "image/jpeg",
-        "type": "File",
-        "description": "File \"src/assets/images/portfolio/modals/m-girl.jpg\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-girl.jpg",
-      "relativePath": "portfolio/modals/m-girl.jpg",
-      "extension": "jpg",
-      "size": 231027,
-      "prettySize": "231 kB",
-      "modifiedTime": "2018-12-20T22:50:08.605Z",
-      "accessTime": "2018-12-20T22:52:36.764Z",
-      "changeTime": "2018-12-20T22:50:08.605Z",
-      "birthTime": "2018-12-20T22:50:08.604Z",
-      "root": "/",
-      "dir": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals",
-      "base": "m-girl.jpg",
-      "ext": ".jpg",
-      "name": "m-girl",
-      "relativeDirectory": "portfolio/modals",
-      "dev": 16777220,
-      "mode": 33261,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 12886019592,
-      "blocks": 456,
-      "atimeMs": 1545346356764.4104,
-      "mtimeMs": 1545346208605.1804,
-      "ctimeMs": 1545346208605.1804,
-      "birthtimeMs": 1545346208604.0325,
-      "atime": "2018-12-20T22:52:36.764Z",
-      "mtime": "2018-12-20T22:50:08.605Z",
-      "ctime": "2018-12-20T22:50:08.605Z",
-      "birthtime": "2018-12-20T22:50:08.604Z"
-    },
-    "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-retrocam.jpg absPath of file": {
-      "id": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-retrocam.jpg absPath of file",
-      "children": [
-        "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-retrocam.jpg absPath of file >> ImageSharp"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "91b65a93128ed7ef064fad7cdf859e69",
-        "mediaType": "image/jpeg",
-        "type": "File",
-        "description": "File \"src/assets/images/portfolio/modals/m-retrocam.jpg\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-retrocam.jpg",
-      "relativePath": "portfolio/modals/m-retrocam.jpg",
-      "extension": "jpg",
-      "size": 214981,
-      "prettySize": "215 kB",
-      "modifiedTime": "2018-12-20T22:50:08.611Z",
-      "accessTime": "2018-12-20T22:52:36.765Z",
-      "changeTime": "2018-12-20T22:50:08.611Z",
-      "birthTime": "2018-12-20T22:50:08.609Z",
-      "root": "/",
-      "dir": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals",
-      "base": "m-retrocam.jpg",
-      "ext": ".jpg",
-      "name": "m-retrocam",
-      "relativeDirectory": "portfolio/modals",
-      "dev": 16777220,
-      "mode": 33261,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 12886019596,
-      "blocks": 424,
-      "atimeMs": 1545346356764.8923,
-      "mtimeMs": 1545346208610.7026,
-      "ctimeMs": 1545346208610.7026,
-      "birthtimeMs": 1545346208609.3318,
-      "atime": "2018-12-20T22:52:36.765Z",
-      "mtime": "2018-12-20T22:50:08.611Z",
-      "ctime": "2018-12-20T22:50:08.611Z",
-      "birthtime": "2018-12-20T22:50:08.609Z"
-    },
-    "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/retrocam.jpg absPath of file": {
-      "id": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/retrocam.jpg absPath of file",
-      "children": [
-        "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/retrocam.jpg absPath of file >> ImageSharp"
-      ],
-      "parent": "___SOURCE___",
+    "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/retrocam.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/retrocam.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/retrocam.jpg absPath of file",
       "internal": {
         "contentDigest": "522192d97b644075d576df8f7f58f3a0",
-        "mediaType": "image/jpeg",
-        "type": "File",
-        "description": "File \"src/assets/images/portfolio/retrocam.jpg\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/retrocam.jpg",
-      "relativePath": "portfolio/retrocam.jpg",
-      "extension": "jpg",
-      "size": 176219,
-      "prettySize": "176 kB",
-      "modifiedTime": "2018-12-20T22:50:08.613Z",
-      "accessTime": "2018-12-20T22:52:36.765Z",
-      "changeTime": "2018-12-20T22:50:08.613Z",
-      "birthTime": "2018-12-20T22:50:08.612Z",
-      "root": "/",
-      "dir": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio",
-      "base": "retrocam.jpg",
-      "ext": ".jpg",
-      "name": "retrocam",
-      "relativeDirectory": "portfolio",
-      "dev": 16777220,
-      "mode": 33261,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 12886019598,
-      "blocks": 352,
-      "atimeMs": 1545346356765.1194,
-      "mtimeMs": 1545346208612.9915,
-      "ctimeMs": 1545346208612.9915,
-      "birthtimeMs": 1545346208612.0227,
-      "atime": "2018-12-20T22:52:36.765Z",
-      "mtime": "2018-12-20T22:50:08.613Z",
-      "ctime": "2018-12-20T22:50:08.613Z",
-      "birthtime": "2018-12-20T22:50:08.612Z"
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
     },
     "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/judah.jpg absPath of file >> ImageSharp": {
       "id": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/judah.jpg absPath of file >> ImageSharp",
@@ -2414,46 +2284,6 @@
       "parent": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/judah.jpg absPath of file",
       "internal": {
         "contentDigest": "f5bf96d39756b9a7267076a3b81a5e98",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-console.jpg absPath of file >> ImageSharp": {
-      "id": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-console.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-console.jpg absPath of file",
-      "internal": {
-        "contentDigest": "dc53e451be2267be73395b7022b23956",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-girl.jpg absPath of file >> ImageSharp": {
-      "id": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-girl.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-girl.jpg absPath of file",
-      "internal": {
-        "contentDigest": "cca489424290988698ceb5e8c5552189",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-retrocam.jpg absPath of file >> ImageSharp": {
-      "id": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-retrocam.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-retrocam.jpg absPath of file",
-      "internal": {
-        "contentDigest": "91b65a93128ed7ef064fad7cdf859e69",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/retrocam.jpg absPath of file >> ImageSharp": {
-      "id": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/retrocam.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/retrocam.jpg absPath of file",
-      "internal": {
-        "contentDigest": "522192d97b644075d576df8f7f58f3a0",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
@@ -2552,6 +2382,147 @@
       "ctime": "2018-12-20T22:50:08.608Z",
       "birthtime": "2018-12-20T22:50:08.607Z"
     },
+    "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-retrocam.jpg absPath of file": {
+      "id": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-retrocam.jpg absPath of file",
+      "children": [
+        "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-retrocam.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "91b65a93128ed7ef064fad7cdf859e69",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "description": "File \"src/assets/images/portfolio/modals/m-retrocam.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-retrocam.jpg",
+      "relativePath": "portfolio/modals/m-retrocam.jpg",
+      "extension": "jpg",
+      "size": 214981,
+      "prettySize": "215 kB",
+      "modifiedTime": "2018-12-20T22:50:08.611Z",
+      "accessTime": "2018-12-20T22:52:36.765Z",
+      "changeTime": "2018-12-20T22:50:08.611Z",
+      "birthTime": "2018-12-20T22:50:08.609Z",
+      "root": "/",
+      "dir": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals",
+      "base": "m-retrocam.jpg",
+      "ext": ".jpg",
+      "name": "m-retrocam",
+      "relativeDirectory": "portfolio/modals",
+      "dev": 16777220,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 12886019596,
+      "blocks": 424,
+      "atimeMs": 1545346356764.8923,
+      "mtimeMs": 1545346208610.7026,
+      "ctimeMs": 1545346208610.7026,
+      "birthtimeMs": 1545346208609.3318,
+      "atime": "2018-12-20T22:52:36.765Z",
+      "mtime": "2018-12-20T22:50:08.611Z",
+      "ctime": "2018-12-20T22:50:08.611Z",
+      "birthtime": "2018-12-20T22:50:08.609Z"
+    },
+    "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-console.jpg absPath of file": {
+      "id": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-console.jpg absPath of file",
+      "children": [
+        "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-console.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "dc53e451be2267be73395b7022b23956",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "description": "File \"src/assets/images/portfolio/modals/m-console.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-console.jpg",
+      "relativePath": "portfolio/modals/m-console.jpg",
+      "extension": "jpg",
+      "size": 195994,
+      "prettySize": "196 kB",
+      "modifiedTime": "2018-12-20T22:50:08.601Z",
+      "accessTime": "2018-12-20T23:28:11.072Z",
+      "changeTime": "2018-12-20T22:50:08.601Z",
+      "birthTime": "2018-12-20T22:50:08.600Z",
+      "root": "/",
+      "dir": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals",
+      "base": "m-console.jpg",
+      "ext": ".jpg",
+      "name": "m-console",
+      "relativeDirectory": "portfolio/modals",
+      "dev": 16777220,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 12886019590,
+      "blocks": 384,
+      "atimeMs": 1545348491072.35,
+      "mtimeMs": 1545346208601.3625,
+      "ctimeMs": 1545346208601.3625,
+      "birthtimeMs": 1545346208600.1687,
+      "atime": "2018-12-20T23:28:11.072Z",
+      "mtime": "2018-12-20T22:50:08.601Z",
+      "ctime": "2018-12-20T22:50:08.601Z",
+      "birthtime": "2018-12-20T22:50:08.600Z"
+    },
+    "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-girl.jpg absPath of file": {
+      "id": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-girl.jpg absPath of file",
+      "children": [
+        "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-girl.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "cca489424290988698ceb5e8c5552189",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "description": "File \"src/assets/images/portfolio/modals/m-girl.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-girl.jpg",
+      "relativePath": "portfolio/modals/m-girl.jpg",
+      "extension": "jpg",
+      "size": 231027,
+      "prettySize": "231 kB",
+      "modifiedTime": "2018-12-20T22:50:08.605Z",
+      "accessTime": "2018-12-20T22:52:36.764Z",
+      "changeTime": "2018-12-20T22:50:08.605Z",
+      "birthTime": "2018-12-20T22:50:08.604Z",
+      "root": "/",
+      "dir": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals",
+      "base": "m-girl.jpg",
+      "ext": ".jpg",
+      "name": "m-girl",
+      "relativeDirectory": "portfolio/modals",
+      "dev": 16777220,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 12886019592,
+      "blocks": 456,
+      "atimeMs": 1545346356764.4104,
+      "mtimeMs": 1545346208605.1804,
+      "ctimeMs": 1545346208605.1804,
+      "birthtimeMs": 1545346208604.0325,
+      "atime": "2018-12-20T22:52:36.764Z",
+      "mtime": "2018-12-20T22:50:08.605Z",
+      "ctime": "2018-12-20T22:50:08.605Z",
+      "birthtime": "2018-12-20T22:50:08.604Z"
+    },
     "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-farmerboy.jpg absPath of file >> ImageSharp": {
       "id": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-farmerboy.jpg absPath of file >> ImageSharp",
       "children": [],
@@ -2568,6 +2539,36 @@
       "parent": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-judah.jpg absPath of file",
       "internal": {
         "contentDigest": "d0599ca57ac4b7531f0d4c30fdc7a2b9",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-retrocam.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-retrocam.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-retrocam.jpg absPath of file",
+      "internal": {
+        "contentDigest": "91b65a93128ed7ef064fad7cdf859e69",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-console.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-console.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-console.jpg absPath of file",
+      "internal": {
+        "contentDigest": "dc53e451be2267be73395b7022b23956",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-girl.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-girl.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio/modals/m-girl.jpg absPath of file",
+      "internal": {
+        "contentDigest": "cca489424290988698ceb5e8c5552189",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
@@ -2702,7 +2703,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f6512c5f4c042b188067e157cd5a88f4",
+        "contentDigest": "79c62e1127cc6be4652ba1118971b34e",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -2723,7 +2724,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1733a51571a18a43f683b6120a2b9a6d",
+        "contentDigest": "051b82fec66aabd15f9775152db0efdd",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -2744,7 +2745,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "817ff46b470b90be383b643e85112223",
+        "contentDigest": "3ec8901a635a2f08e06c737256aeb377",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
@@ -2752,7 +2753,7 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "4ca0c5ac94b0f57506290d7548ff9a7b"
+    "PLUGINS_HASH": "0239da9aeb00031d181255245242c188"
   },
   "componentDataDependencies": {
     "nodes": {},

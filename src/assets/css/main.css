@@ -956,6 +956,7 @@ header .scrolldown a:hover {
   position: fixed;
   left: 0;
   top: 0;
+  background-color: rgba(29, 27, 27, 0.7);
 }
 .opaque {
   background-color: #333;
@@ -2025,7 +2026,7 @@ footer .social li:first-child {
  }
  /* nav-wrap */
  #nav-wrap {
-    font: 11px ;
+    font: 20px ;
     letter-spacing: 1.5px;
  }
 
