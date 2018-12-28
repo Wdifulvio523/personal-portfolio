@@ -27,12 +27,12 @@ const SocialLinks = () => (
       </a>
     </li>
     <li>
-      <a href="https://linkedin.com/in/william-difulvio">
+      <a href="https://linkedin.com/in/william-difulvio" target="_blank">
         <FaLinkedinSquare />
       </a>
     </li>
     <li>
-      <a href="https://github.com/Wdifulvio523">
+      <a href="https://github.com/Wdifulvio523" target="_blank">
         <FaGithub />
       </a>
     </li>

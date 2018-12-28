@@ -175,10 +175,10 @@ const Portfolio = () => (
         />
 
         <div className="description-box">
-          <h4>Coffee Cup</h4>
+          <h4>Full-Stack</h4>
           <p>
           Full-Stack Notes Application using React front-end
-          and fully-functional backend.
+          and fully-functional backend database. 
           </p>
           <span className="categories">
             <FaTag /> Full-Stack, React, Front-End, Back-End 

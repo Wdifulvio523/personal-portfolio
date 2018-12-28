@@ -10,8 +10,8 @@ const Skills = () => (
 
     <div className="nine columns main-col">
       <p>
-        I consider myself a T-shaped developer, which meand I have knowledge 
-        in a wide variety of languages and platforms, and I specialize in a specific area
+        I consider myself a T-shaped developer - I have knowledge of and experience with
+        a wide variety of languages and platforms, and I specialize in a specific area.
       </p>
 
       <div className="bars">
