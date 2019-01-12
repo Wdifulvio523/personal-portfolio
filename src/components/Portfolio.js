@@ -29,6 +29,8 @@ const Portfolio = () => (
           id="portfolio-wrapper"
           className="bgrid-quarters s-bgrid-thirds cf"
         >
+          {/* Notes */}
+
           <div className="columns portfolio-item">
             <div className="item-wrap">
               <a href="#modal-01" title="">
@@ -36,7 +38,7 @@ const Portfolio = () => (
                 <div className="overlay">
                   <div className="portfolio-item-meta">
                     <h5>React</h5>
-                    <p>Full-Stack Notes Application  </p>
+                    <p>Full-Stack Notes Application </p>
                   </div>
                 </div>
                 <div className="link-icon">
@@ -46,14 +48,16 @@ const Portfolio = () => (
             </div>
           </div>
 
+          {/* fitmetrix */}
+
           <div className="columns portfolio-item">
             <div className="item-wrap">
               <a href="#modal-02" title="">
                 <img alt="" src={Console} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
-                    <h5>Console</h5>
-                    <p>Web Development</p>
+                    <h5>fitmetrix Blog</h5>
+                    <p>Daily Blog for my workout-tracker app, fitmetrix</p>
                   </div>
                 </div>
                 <div className="link-icon">
@@ -168,60 +172,54 @@ const Portfolio = () => (
       </div>
 
       <div id="modal-01" className="popup-modal mfp-hide">
-        <img
-          className="scale-with-grid"
-          src={CoffeeModal}
-          alt=""
-        />
+        <img className="scale-with-grid" src={CoffeeModal} alt="" />
 
         <div className="description-box">
           <h4>Full-Stack</h4>
           <p>
-          Full-Stack Notes Application using React front-end
-          and fully-functional backend database. 
+            Full-Stack Notes Application using React front-end and
+            fully-functional backend database.
           </p>
           <span className="categories">
-            <FaTag /> Full-Stack, React, Front-End, Back-End 
+            <FaTag /> Full-Stack, React, Front-End, Back-End
           </span>
         </div>
 
         <div className="link-box">
-          <a href="https://difulvionotes.netlify.com" target="_blank">Details</a>
-          <a href="#portfolio" className="popup-modal-dismiss">Close</a>
+          <a href="https://difulvionotes.netlify.com" target="_blank">
+            visit
+          </a>
+          <a href="#portfolio" className="popup-modal-dismiss">
+            Close
+          </a>
         </div>
       </div>
 
       <div id="modal-02" className="popup-modal mfp-hide">
-        <img
-          className="scale-with-grid"
-          src={ConsoleModal}
-          alt=""
-        />
+        <img className="scale-with-grid" src={ConsoleModal} alt="" />
 
         <div className="description-box">
-          <h4>Console</h4>
+          <h4>Fitmetrix Blog</h4>
           <p>
-            Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin,
-            lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis
-            sem nibh id elit.
+            Daily Blog as I built my workout-tracker app, fitmetrix. From day 1
+            decisions like data structure, through design and presentation.
           </p>
           <span className="categories">
-            <FaTag />Branding, Web Development
+            <FaTag />
+            Full-Stack, Team-Project, React
           </span>
         </div>
 
         <div className="link-box">
-          <a href="http://www.behance.net">Details</a>
-          <a href="#portfolio" className="popup-modal-dismiss">Close</a>
+          <a href="https://billd-labs-blog.netlify.com/" target="_blank">Visit</a>
+          <a href="#portfolio" className="popup-modal-dismiss">
+            Close
+          </a>
         </div>
       </div>
 
       <div id="modal-03" className="popup-modal mfp-hide">
-        <img
-          className="scale-with-grid"
-          src={JudahModal}
-          alt=""
-        />
+        <img className="scale-with-grid" src={JudahModal} alt="" />
 
         <div className="description-box">
           <h4>Judah</h4>
@@ -231,22 +229,21 @@ const Portfolio = () => (
             sem nibh id elit.
           </p>
           <span className="categories">
-            <FaTag />Branding
+            <FaTag />
+            Branding
           </span>
         </div>
 
         <div className="link-box">
           <a href="http://www.behance.net">Details</a>
-          <a href="#portfolio" className="popup-modal-dismiss">Close</a>
+          <a href="#portfolio" className="popup-modal-dismiss">
+            Close
+          </a>
         </div>
       </div>
 
       <div id="modal-04" className="popup-modal mfp-hide">
-        <img
-          className="scale-with-grid"
-          src={IntoTheLightModal}
-          alt=""
-        />
+        <img className="scale-with-grid" src={IntoTheLightModal} alt="" />
 
         <div className="description-box">
           <h4>Into the Light</h4>
@@ -256,22 +253,21 @@ const Portfolio = () => (
             sem nibh id elit.
           </p>
           <span className="categories">
-            <FaTag />Photography
+            <FaTag />
+            Photography
           </span>
         </div>
 
         <div className="link-box">
           <a href="http://www.behance.net">Details</a>
-          <a href="#portfolio" className="popup-modal-dismiss">Close</a>
+          <a href="#portfolio" className="popup-modal-dismiss">
+            Close
+          </a>
         </div>
       </div>
 
       <div id="modal-05" className="popup-modal mfp-hide">
-        <img
-          className="scale-with-grid"
-          src={FarmerboyModal}
-          alt=""
-        />
+        <img className="scale-with-grid" src={FarmerboyModal} alt="" />
 
         <div className="description-box">
           <h4>Farmer Boy</h4>
@@ -281,22 +277,21 @@ const Portfolio = () => (
             sem nibh id elit.
           </p>
           <span className="categories">
-            <FaTag />Branding, Webdesign
+            <FaTag />
+            Branding, Webdesign
           </span>
         </div>
 
         <div className="link-box">
           <a href="http://www.behance.net">Details</a>
-          <a href="#portfolio" className="popup-modal-dismiss">Close</a>
+          <a href="#portfolio" className="popup-modal-dismiss">
+            Close
+          </a>
         </div>
       </div>
 
       <div id="modal-06" className="popup-modal mfp-hide">
-        <img
-          className="scale-with-grid"
-          src={GirlModal}
-          alt=""
-        />
+        <img className="scale-with-grid" src={GirlModal} alt="" />
 
         <div className="description-box">
           <h4>Girl</h4>
@@ -306,22 +301,21 @@ const Portfolio = () => (
             sem nibh id elit.
           </p>
           <span className="categories">
-            <FaTag />Photography
+            <FaTag />
+            Photography
           </span>
         </div>
 
         <div className="link-box">
           <a href="http://www.behance.net">Details</a>
-          <a href="#portfolio" className="popup-modal-dismiss">Close</a>
+          <a href="#portfolio" className="popup-modal-dismiss">
+            Close
+          </a>
         </div>
       </div>
 
       <div id="modal-07" className="popup-modal mfp-hide">
-        <img
-          className="scale-with-grid"
-          src={OrigamiModal}
-          alt=""
-        />
+        <img className="scale-with-grid" src={OrigamiModal} alt="" />
 
         <div className="description-box">
           <h4>Origami</h4>
@@ -331,22 +325,21 @@ const Portfolio = () => (
             sem nibh id elit.
           </p>
           <span className="categories">
-            <FaTag />Branding, Illustration
+            <FaTag />
+            Branding, Illustration
           </span>
         </div>
 
         <div className="link-box">
           <a href="http://www.behance.net">Details</a>
-          <a href="#portfolio" className="popup-modal-dismiss">Close</a>
+          <a href="#portfolio" className="popup-modal-dismiss">
+            Close
+          </a>
         </div>
       </div>
 
       <div id="modal-08" className="popup-modal mfp-hide">
-        <img
-          className="scale-with-grid"
-          src={RetrocamModal}
-          alt=""
-        />
+        <img className="scale-with-grid" src={RetrocamModal} alt="" />
 
         <div className="description-box">
           <h4>Retrocam</h4>
@@ -356,13 +349,16 @@ const Portfolio = () => (
             sem nibh id elit.
           </p>
           <span className="categories">
-            <i className="fa fa-tag" />Webdesign, Photography
+            <i className="fa fa-tag" />
+            Webdesign, Photography
           </span>
         </div>
 
         <div className="link-box">
           <a href="http://www.behance.net">Details</a>
-          <a href="#portfolio" className="popup-modal-dismiss">Close</a>
+          <a href="#portfolio" className="popup-modal-dismiss">
+            Close
+          </a>
         </div>
       </div>
     </div>
