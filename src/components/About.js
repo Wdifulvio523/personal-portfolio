@@ -12,11 +12,16 @@ const About = () => (
       <div className="nine columns main-col">
         <h2>Hey There!</h2>
         <p>
-          My name is William DiFulvio and I'm a web developer with over three years of management experience. 
-          I started my Web Development journey in early 2018 when I began at Lambda School. Nine grueling months later, 
-          I am a qualified Full-Stack Web developer with specialties in React and Javascript. I have completed
-          over 15 projects over the past nine months, starting with the simple and continuing with more and more complex
-          applications. Take a look at some of them below!
+          My name is William DiFulvio and I'm a Full-Stack Web Developer
+          specializing in front end development. In addition, I have a strong
+          background in high-level project and operations management as well as
+          with client and customer relations. I started my Web Development
+          journey in early 2018 when I began at Lambda School. Nine grueling
+          months later, I am a qualified Full-Stack Web developer with
+          specialties in React and Javascript. I have completed over 15 projects
+          over the past nine months, starting with the simple and continuing
+          with more and more complex applications. Take a look at some of them
+          below!
         </p>
         <div className="row">
           <div className="columns contact-details">
@@ -24,23 +29,18 @@ const About = () => (
             <p className="address">
               <span>William DiFulvio Jr.</span>
               <br />
-              <span>
-                3431 Astoria Ct
-                <br /> Winter Park, FL 32792
-              </span>
+              <span>Orlando, FL</span>
               <br />
-              <span>(386)717-1109</span>
+              <span>(386) 717 - 1109</span>
               <br />
               <span>w.difulvio523@gmail.com</span>
             </p>
           </div>
           <div className="columns download">
             <p>
-              <a href="#" className="button">
-              <FaCloudDownloadAlt size={15} />
-              <span className="dlresume-span">
-                  Download Resume
-              </span>
+              <a href="https://docs.google.com/document/d/1aGWBNYPKJSCxGywT_9sMfRNAr5FGYpoFeYlhyu-uy6M/edit?usp=sharing" target="_blank" className="button">
+               
+                <span className="dlresume-span">See Resume</span>
               </a>
             </p>
           </div>

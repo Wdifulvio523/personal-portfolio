@@ -135,6 +135,7 @@ table {
 html {
    font-size: 62.5%;
    -webkit-font-smoothing: antialiased;
+   scroll-behavior: smooth;
 }
 
 body {
@@ -1525,7 +1526,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #testimonials {
-  background: #1f1f1f url(../images/testimonials-bg.jpg) no-repeat center center;
+  background: #1f1f1f url(../images/header-background.jpg) no-repeat center center;
   background-size: cover !important;
   -webkit-background-size: cover !important;
   background-attachment: fixed;
@@ -1932,9 +1933,8 @@ footer .social li:first-child {
   text-decoration: none;
   border: 0 none;
   display: block;
-  width: 60px;
-  height: 60px;
-  background-color: #525252;
+  width: 40px;
+  height: 40px;
 
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;

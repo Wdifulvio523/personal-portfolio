@@ -37,7 +37,7 @@ const Portfolio = () => (
                 <img alt="" src={Coffee} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
-                    <h5>React</h5>
+                    <h5>DiFulvio Notes</h5>
                     <p>Full-Stack Notes Application </p>
                   </div>
                 </div>
@@ -56,8 +56,8 @@ const Portfolio = () => (
                 <img alt="" src={Console} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
-                    <h5>fitmetrix Blog</h5>
-                    <p>Daily Blog for my workout-tracker app, fitmetrix</p>
+                    <h5>Fitmetrix Blog</h5>
+                    <p>Daily Blog for my workout-tracker app, Fitmetrix</p>
                   </div>
                 </div>
                 <div className="link-icon">
@@ -66,6 +66,8 @@ const Portfolio = () => (
               </a>
             </div>
           </div>
+
+        {/* Mox Draft */}
 
           <div className="columns portfolio-item">
             <div className="item-wrap">
@@ -73,8 +75,9 @@ const Portfolio = () => (
                 <img alt="" src={Judah} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
-                    <h5>Judah</h5>
-                    <p>Webdesign</p>
+                    <h5>Mox</h5>
+                    <p>Mock Drafting Application</p>
+                    <p>Lambda Winter Hackathon 2019</p>
                   </div>
                 </div>
                 <div className="link-icon">
@@ -84,7 +87,7 @@ const Portfolio = () => (
             </div>
           </div>
 
-          <div className="columns portfolio-item">
+          {/* <div className="columns portfolio-item">
             <div className="item-wrap">
               <a href="#modal-04" title="">
                 <img alt="" src={IntoTheLight} />
@@ -99,9 +102,9 @@ const Portfolio = () => (
                 </div>
               </a>
             </div>
-          </div>
+          </div> */}
 
-          <div className="columns portfolio-item">
+          {/* <div className="columns portfolio-item">
             <div className="item-wrap">
               <a href="#modal-05" title="">
                 <img alt="" src={Farmerboy} />
@@ -116,9 +119,9 @@ const Portfolio = () => (
                 </div>
               </a>
             </div>
-          </div>
+          </div> */}
 
-          <div className="columns portfolio-item">
+          {/* <div className="columns portfolio-item">
             <div className="item-wrap">
               <a href="#modal-06" title="">
                 <img alt="" src={Girl} />
@@ -133,9 +136,9 @@ const Portfolio = () => (
                 </div>
               </a>
             </div>
-          </div>
+          </div> */}
 
-          <div className="columns portfolio-item">
+          {/* <div className="columns portfolio-item">
             <div className="item-wrap">
               <a href="#modal-07" title="">
                 <img alt="" src={Origami} />
@@ -150,9 +153,9 @@ const Portfolio = () => (
                 </div>
               </a>
             </div>
-          </div>
+          </div> */}
 
-          <div className="columns portfolio-item">
+          {/* <div className="columns portfolio-item">
             <div className="item-wrap">
               <a href="#modal-08" title="">
                 <img alt="" src={Retrocam} />
@@ -162,15 +165,19 @@ const Portfolio = () => (
                     <p>Web Development</p>
                   </div>
                 </div>
+                
                 <div className="link-icon">
                   <FaPlus />
                 </div>
               </a>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
 
+      {/* POPUPS */}
+
+      {/* Notes App Popup */}
       <div id="modal-01" className="popup-modal mfp-hide">
         <img className="scale-with-grid" src={CoffeeModal} alt="" />
 
@@ -194,6 +201,8 @@ const Portfolio = () => (
           </a>
         </div>
       </div>
+
+      {/* FitMetrix Popup */}
 
       <div id="modal-02" className="popup-modal mfp-hide">
         <img className="scale-with-grid" src={ConsoleModal} alt="" />
@@ -222,27 +231,26 @@ const Portfolio = () => (
         <img className="scale-with-grid" src={JudahModal} alt="" />
 
         <div className="description-box">
-          <h4>Judah</h4>
+          <h4>Mox Demo</h4>
           <p>
-            Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin,
-            lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis
-            sem nibh id elit.
+           Demo of a Fantasy Football Mock Drafting Application built over two days 
+           for the Lambda School Winter Hackathon
           </p>
           <span className="categories">
             <FaTag />
-            Branding
+            React, Front-End, Hackathon, Team-Project
           </span>
         </div>
 
         <div className="link-box">
-          <a href="http://www.behance.net">Details</a>
+          <a href="https://youtu.be/t-AfcaYolxY" target="_blank" >Watch</a>
           <a href="#portfolio" className="popup-modal-dismiss">
             Close
           </a>
         </div>
       </div>
 
-      <div id="modal-04" className="popup-modal mfp-hide">
+      {/* <div id="modal-04" className="popup-modal mfp-hide">
         <img className="scale-with-grid" src={IntoTheLightModal} alt="" />
 
         <div className="description-box">
@@ -264,9 +272,9 @@ const Portfolio = () => (
             Close
           </a>
         </div>
-      </div>
+      </div> */}
 
-      <div id="modal-05" className="popup-modal mfp-hide">
+      {/* <div id="modal-05" className="popup-modal mfp-hide">
         <img className="scale-with-grid" src={FarmerboyModal} alt="" />
 
         <div className="description-box">
@@ -288,9 +296,9 @@ const Portfolio = () => (
             Close
           </a>
         </div>
-      </div>
+      </div> */}
 
-      <div id="modal-06" className="popup-modal mfp-hide">
+      {/* <div id="modal-06" className="popup-modal mfp-hide">
         <img className="scale-with-grid" src={GirlModal} alt="" />
 
         <div className="description-box">
@@ -312,8 +320,8 @@ const Portfolio = () => (
             Close
           </a>
         </div>
-      </div>
-
+      </div> */}
+{/* 
       <div id="modal-07" className="popup-modal mfp-hide">
         <img className="scale-with-grid" src={OrigamiModal} alt="" />
 
@@ -336,9 +344,9 @@ const Portfolio = () => (
             Close
           </a>
         </div>
-      </div>
+      </div> */}
 
-      <div id="modal-08" className="popup-modal mfp-hide">
+      {/* <div id="modal-08" className="popup-modal mfp-hide">
         <img className="scale-with-grid" src={RetrocamModal} alt="" />
 
         <div className="description-box">
@@ -360,7 +368,7 @@ const Portfolio = () => (
             Close
           </a>
         </div>
-      </div>
+      </div> */}
     </div>
   </section>
 );

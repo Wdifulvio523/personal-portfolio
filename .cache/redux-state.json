@@ -8,7 +8,7 @@
       "component": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1547948319423,
+      "updatedAt": 1548008634615,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
       "componentPath": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/.cache/dev-404-page.js",
@@ -17,7 +17,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8e161f483dd285bcfc68a28335053c95",
+        "contentDigest": "04f2603d4d8c41c1a0ed1a4c40f93c07",
         "owner": "internal-data-bridge"
       }
     },
@@ -1153,12 +1153,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-01-20T00:39:03.399Z",
+      "buildTime": "2019-01-20T18:23:49.084Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "6cbe5d01a6b82bc4fa89a8465bc046ee",
+        "contentDigest": "1adcd541328426409802a76aada9bcaf",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1168,7 +1168,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "6654263343708e9c84889d2d3e6bd2fa",
+        "contentDigest": "14693bc8c52c3caee3debe02ecf92676",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1176,11 +1176,11 @@
       "absolutePath": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images",
       "relativePath": "",
       "extension": "",
-      "size": 320,
-      "prettySize": "320 B",
-      "modifiedTime": "2018-12-20T22:50:08.614Z",
-      "accessTime": "2019-01-20T00:39:08.076Z",
-      "changeTime": "2018-12-20T22:50:08.614Z",
+      "size": 384,
+      "prettySize": "384 B",
+      "modifiedTime": "2019-01-20T01:38:39.199Z",
+      "accessTime": "2019-01-20T18:23:54.246Z",
+      "changeTime": "2019-01-20T01:38:39.199Z",
       "birthTime": "2018-12-20T22:50:08.588Z",
       "root": "/",
       "dir": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets",
@@ -1190,20 +1190,20 @@
       "relativeDirectory": "..",
       "dev": 16777220,
       "mode": 16877,
-      "nlink": 10,
+      "nlink": 12,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
       "ino": 12886019576,
       "blocks": 0,
-      "atimeMs": 1547944748075.616,
-      "mtimeMs": 1545346208614.0767,
-      "ctimeMs": 1545346208614.0767,
+      "atimeMs": 1548008634246.24,
+      "mtimeMs": 1547948319199.0933,
+      "ctimeMs": 1547948319199.0933,
       "birthtimeMs": 1545346208588.3696,
-      "atime": "2019-01-20T00:39:08.076Z",
-      "mtime": "2018-12-20T22:50:08.614Z",
-      "ctime": "2018-12-20T22:50:08.614Z",
+      "atime": "2019-01-20T18:23:54.246Z",
+      "mtime": "2019-01-20T01:38:39.199Z",
+      "ctime": "2019-01-20T01:38:39.199Z",
       "birthtime": "2018-12-20T22:50:08.588Z"
     },
     "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio absPath of file": {
@@ -1211,7 +1211,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "b1bc93fd430df02a0d19791663747f92",
+        "contentDigest": "b9d18ebcf4011064fbd45e2b95a5bc72",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1222,7 +1222,7 @@
       "size": 352,
       "prettySize": "352 B",
       "modifiedTime": "2018-12-20T22:50:08.612Z",
-      "accessTime": "2019-01-20T00:39:08.078Z",
+      "accessTime": "2019-01-20T18:23:54.250Z",
       "changeTime": "2018-12-20T22:50:08.612Z",
       "birthTime": "2018-12-20T22:50:08.593Z",
       "root": "/",
@@ -1240,11 +1240,11 @@
       "blksize": 4096,
       "ino": 12886019581,
       "blocks": 0,
-      "atimeMs": 1547944748078.4978,
+      "atimeMs": 1548008634250.213,
       "mtimeMs": 1545346208612.048,
       "ctimeMs": 1545346208612.048,
       "birthtimeMs": 1545346208592.8794,
-      "atime": "2019-01-20T00:39:08.078Z",
+      "atime": "2019-01-20T18:23:54.250Z",
       "mtime": "2018-12-20T22:50:08.612Z",
       "ctime": "2018-12-20T22:50:08.612Z",
       "birthtime": "2018-12-20T22:50:08.593Z"
@@ -1254,7 +1254,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "2f40e481c69f11677d8eaa9dcb2ce45d",
+        "contentDigest": "e10c3ea3e501881ca5e8affe1ee5fc07",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1265,7 +1265,7 @@
       "size": 320,
       "prettySize": "320 B",
       "modifiedTime": "2018-12-20T22:50:08.609Z",
-      "accessTime": "2019-01-20T00:39:08.080Z",
+      "accessTime": "2019-01-20T18:23:54.253Z",
       "changeTime": "2018-12-20T22:50:08.609Z",
       "birthTime": "2018-12-20T22:50:08.599Z",
       "root": "/",
@@ -1283,11 +1283,11 @@
       "blksize": 4096,
       "ino": 12886019588,
       "blocks": 0,
-      "atimeMs": 1547944748080.2583,
+      "atimeMs": 1548008634252.5496,
       "mtimeMs": 1545346208609.352,
       "ctimeMs": 1545346208609.352,
       "birthtimeMs": 1545346208599.211,
-      "atime": "2019-01-20T00:39:08.080Z",
+      "atime": "2019-01-20T18:23:54.253Z",
       "mtime": "2018-12-20T22:50:08.609Z",
       "ctime": "2018-12-20T22:50:08.609Z",
       "birthtime": "2018-12-20T22:50:08.599Z"
@@ -2568,75 +2568,12 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "SitePage /404/": {
-      "layout": "index",
-      "jsonName": "404.json",
-      "internalComponentName": "Component404",
-      "path": "/404/",
-      "component": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/pages/404.js",
-      "componentChunkName": "component---src-pages-404-js",
-      "context": {},
-      "updatedAt": 1547944748654,
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/pages/404.js",
-      "id": "SitePage /404/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "e6c8c00ab5df93498b1f94092fc6d0f8",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /": {
-      "layout": "index",
-      "jsonName": "index.json",
-      "internalComponentName": "ComponentIndex",
-      "path": "/",
-      "component": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/pages/index.js",
-      "componentChunkName": "component---src-pages-index-js",
-      "context": {},
-      "updatedAt": 1547944748656,
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/pages/index.js",
-      "id": "SitePage /",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "1cc994e02cc10be1ae847a54d2a371f8",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /404.html": {
-      "layout": "index",
-      "jsonName": "404-html.json",
-      "internalComponentName": "Component404Html",
-      "path": "/404.html",
-      "component": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/pages/404.js",
-      "componentChunkName": "component---src-pages-404-js",
-      "context": {},
-      "updatedAt": 1547944748660,
-      "pluginCreator___NODE": "Plugin prod-404",
-      "pluginCreatorId": "Plugin prod-404",
-      "componentPath": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/pages/404.js",
-      "id": "SitePage /404.html",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "4ab8cde0350645deebf1bbff2dddfa34",
-        "owner": "internal-data-bridge"
-      }
-    },
     "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/.DS_Store absPath of file": {
       "id": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/.DS_Store absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "7a1f4d48c83563654cc6e101d5bfefc5",
+        "contentDigest": "48adace848192d0f77e3538a1225188f",
         "mediaType": "application/octet-stream",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -2647,9 +2584,9 @@
       "extension": "",
       "size": 6148,
       "prettySize": "6.15 kB",
-      "modifiedTime": "2019-01-20T01:38:13.718Z",
-      "accessTime": "2019-01-20T01:38:13.718Z",
-      "changeTime": "2019-01-20T01:38:13.718Z",
+      "modifiedTime": "2019-01-20T17:11:05.512Z",
+      "accessTime": "2019-01-20T17:11:05.511Z",
+      "changeTime": "2019-01-20T17:11:05.512Z",
       "birthTime": "2019-01-20T01:38:13.718Z",
       "root": "/",
       "dir": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images",
@@ -2666,13 +2603,13 @@
       "blksize": 4096,
       "ino": 12887817559,
       "blocks": 16,
-      "atimeMs": 1547948293717.763,
-      "mtimeMs": 1547948293718.4712,
-      "ctimeMs": 1547948293718.4712,
+      "atimeMs": 1548004265510.5134,
+      "mtimeMs": 1548004265512.0073,
+      "ctimeMs": 1548004265512.0073,
       "birthtimeMs": 1547948293717.763,
-      "atime": "2019-01-20T01:38:13.718Z",
-      "mtime": "2019-01-20T01:38:13.718Z",
-      "ctime": "2019-01-20T01:38:13.718Z",
+      "atime": "2019-01-20T17:11:05.511Z",
+      "mtime": "2019-01-20T17:11:05.512Z",
+      "ctime": "2019-01-20T17:11:05.512Z",
       "birthtime": "2019-01-20T01:38:13.718Z"
     },
     "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/profilepicbill.jpeg absPath of file": {
@@ -2729,6 +2666,69 @@
         "contentDigest": "93070f5f3044ad1605d18fe72b5ace23",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "SitePage /404/": {
+      "layout": "index",
+      "jsonName": "404.json",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "updatedAt": 1548008634626,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "caf3abfb500e4071304c43cefcf867b6",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "updatedAt": 1548008634627,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "a204e78eb6722d6ac59e89b70075e7d9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "layout": "index",
+      "jsonName": "404-html.json",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "updatedAt": 1548008634629,
+      "pluginCreator___NODE": "Plugin prod-404",
+      "pluginCreatorId": "Plugin prod-404",
+      "componentPath": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "22792277b13ccbc7c8b32b83e1228f85",
+        "owner": "internal-data-bridge"
       }
     }
   },

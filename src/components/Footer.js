@@ -11,7 +11,7 @@ const Footer = () => (
 
       <div id="go-top">
         <a className="smoothscroll" title="Back to Top" href="#home">
-          <FaChevronCircleUp />
+          <FaChevronCircleUp size={42}/>
         </a>
       </div>
     </div>
