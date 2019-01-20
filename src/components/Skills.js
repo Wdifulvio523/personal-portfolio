@@ -1,4 +1,13 @@
 import React from "react";
+import { IconContext } from "react-icons";
+
+import {
+  FaHtml5,
+  FaCss3,
+  FaReact,
+  FaJsSquare,
+  FaNode
+} from 'react-icons/fa'
 
 const Skills = () => (
   <div className="row skill">
@@ -8,40 +17,20 @@ const Skills = () => (
       </h1>
     </div>
 
-    <div className="nine columns main-col">
-      <p>
-        I consider myself a T-shaped developer - I have knowledge of and experience with
-        a wide variety of languages and platforms, and I specialize in a specific area.
-      </p>
+    <div className="nine columns main-col skills-icons">
+            <FaHtml5 size={32} />
+<FaCss3 size={32}/> 
+          <FaJsSquare size={32} />
+          
+          
+            <FaReact size={32}/>
+         
 
-      <div className="bars">
-        <ul className="skills">
-          <li>
-            <span className="bar-expand html5" />
-            <em>HTML5</em>
-          </li>
-          <li>
-            <span className="bar-expand css" />
-            <em>CSS</em>
-          </li>
-          <li>
-            <span className="bar-expand javascript" />
-            <em>Javascript</em>
-          </li>
-          <li>
-            <span className="bar-expand react" />
-            <em>React</em>
-          </li>
-          <li>
-            <span className="bar-expand redux" />
-            <em>Redux</em>
-          </li>
-          <li>
-            <span className="bar-expand back-end" />
-            <em>Back-End (API, Database, Axios)</em>
-          </li>
-        </ul>
-      </div>
+
+          <FaNode size={32}/>
+
+        
+      
     </div>
   </div>
 );

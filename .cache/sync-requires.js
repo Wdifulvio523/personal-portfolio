@@ -15,7 +15,10 @@ exports.components = {
 exports.json = {
   "layout-index.json": require("/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/.cache/json/layout-index.json"),
   "dev-404-page.json": require("/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/.cache/json/dev-404-page.json"),
+  "layout-index.json": require("/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/.cache/json/layout-index.json"),
   "404.json": require("/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/.cache/json/404.json"),
+  "layout-index.json": require("/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/.cache/json/layout-index.json"),
   "index.json": require("/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/.cache/json/index.json"),
+  "layout-index.json": require("/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/.cache/json/layout-index.json"),
   "404-html.json": require("/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/.cache/json/404-html.json")
 }

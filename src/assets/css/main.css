@@ -1063,6 +1063,9 @@ ul#nav li.current a {
   margin-right: 15px;
   font-size: 20px;
 }
+.dlresume-span {
+  padding-left: 10px;
+}
 
 /* ------------------------------------------------------------------ */
 /* d. Resume Section
@@ -1128,46 +1131,13 @@ ul#nav li.current a {
 /*----------------------------------------------*/
 /*	Skill Bars
 /*----------------------------------------------*/
+.skills-icons {
+  display:flex;
+  justify-content: space-between;
+  height: 50px;
+  color: green;
+}
 
-.bars {
-  width: 95%;
-  float: left;
-  padding: 0;
-  text-align: left;
-}
-.bars .skills {
-  margin-top: 36px;
-  list-style: none;
-}
-.bars li {
-  position: relative;
-  margin-bottom: 60px;
-  background: #ccc;
-  height: 42px;
-  border-radius: 3px;
-}
-.bars li em {
-  font: 15px "opensans-bold", sans-serif;
-  color: #313131;
-  text-transform: uppercase;
-  letter-spacing: 2px;
-  font-weight: normal;
-  position: relative;
-  top: -36px;
-}
-.bar-expand {
-  position: absolute;
-  left: 0;
-  top: 0;
-
-  margin: 0;
-  padding-right: 24px;
-  background: #313131;
-  display: inline-block;
-  height: 42px;
-  line-height: 42px;
-  border-radius: 3px 0 0 3px;
-}
 
 .html5 {
   width: 70%;

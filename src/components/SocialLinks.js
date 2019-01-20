@@ -5,8 +5,8 @@ import {
   FaSkype,
   FaGooglePlus,
   FaTwitter,
-  FaLinkedinSquare
-} from "react-icons/lib/fa";
+  FaLinkedin
+} from "react-icons/fa";
 // https://gorangajic.github.io/react-icons/fa.html
 
 const SocialLinks = () => (
@@ -22,13 +22,8 @@ const SocialLinks = () => (
       </a>
     </li>
     <li>
-      <a href="#">
-        <FaGooglePlus />
-      </a>
-    </li>
-    <li>
       <a href="https://linkedin.com/in/william-difulvio" target="_blank">
-        <FaLinkedinSquare />
+        <FaLinkedin />
       </a>
     </li>
     <li>

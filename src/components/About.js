@@ -1,7 +1,7 @@
 import React from "react";
-import { FaCloudDownload } from "react-icons/lib/fa";
+import { FaCloudDownloadAlt } from "react-icons/fa";
 
-import profilePic from "../assets/images/profilepic.jpg";
+import profilePic from "../assets/images/profilepicbill.jpeg";
 
 const About = () => (
   <section id="about">
@@ -10,9 +10,13 @@ const About = () => (
         <img className="profile-pic" src={profilePic} alt="" />
       </div>
       <div className="nine columns main-col">
-        <h2>About Me</h2>
+        <h2>Hey There!</h2>
         <p>
-          My name is William DiFulvio and I'm a web developer with management experience. I 
+          My name is William DiFulvio and I'm a web developer with over three years of management experience. 
+          I started my Web Development journey in early 2018 when I began at Lambda School. Nine grueling months later, 
+          I am a qualified Full-Stack Web developer with specialties in React and Javascript. I have completed
+          over 15 projects over the past nine months, starting with the simple and continuing with more and more complex
+          applications. Take a look at some of them below!
         </p>
         <div className="row">
           <div className="columns contact-details">
@@ -33,7 +37,10 @@ const About = () => (
           <div className="columns download">
             <p>
               <a href="#" className="button">
-                <FaCloudDownload /> Download Resume
+              <FaCloudDownloadAlt size={15} />
+              <span className="dlresume-span">
+                  Download Resume
+              </span>
               </a>
             </p>
           </div>

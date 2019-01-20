@@ -1,15 +1,15 @@
-var plugins = []
+var plugins = [{
+      plugin: require('/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/node_modules/gatsby-plugin-typography/gatsby-browser.js'),
+      options: {"plugins":[],"pathToConfigModule":"src/utils/typography.js"},
+    },{
+      plugin: require('/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/gatsby-browser.js'),
+      options: {"plugins":[]},
+    }]
 // During bootstrap, we write requires at top of this file which looks
 // basically like:
 // var plugins = [
-//   {
-//     plugin: require("/path/to/plugin1/gatsby-browser.js"),
-//     options: { ... },
-//   },
-//   {
-//     plugin: require("/path/to/plugin2/gatsby-browser.js"),
-//     options: { ... },
-//   },
+//   require('/path/to/plugin1/gatsby-browser.js'),
+//   require('/path/to/plugin2/gatsby-browser.js'),
 // ]
 
 export function apiRunner(api, args, defaultReturn) {
