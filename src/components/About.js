@@ -38,7 +38,7 @@ const About = () => (
           </div>
           <div className="columns download">
             <p>
-              <a href="https://docs.google.com/document/d/1aGWBNYPKJSCxGywT_9sMfRNAr5FGYpoFeYlhyu-uy6M/edit?usp=sharing" target="_blank" className="button">
+              <a href="https://resume.creddle.io/resume/e66vldf68ar" target="_blank" className="button">
                
                 <span className="dlresume-span">See Resume</span>
               </a>

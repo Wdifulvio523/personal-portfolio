@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: "William DiFulvio",
+    title: "Will D Portfolio",
     author: "William DiFulvio",
     description: "DiFulvio Portfolio with A Gatsby.js Starter"
   },

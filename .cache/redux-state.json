@@ -8,7 +8,7 @@
       "component": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1548008634615,
+      "updatedAt": 1548030040038,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
       "componentPath": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/.cache/dev-404-page.js",
@@ -17,7 +17,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "04f2603d4d8c41c1a0ed1a4c40f93c07",
+        "contentDigest": "08206675240ff73c3f63a1ffe390cb36",
         "owner": "internal-data-bridge"
       }
     },
@@ -1145,20 +1145,19 @@
     },
     "Site": {
       "siteMetadata": {
-        "title": "William DiFulvio",
+        "title": "Will D Portfolio",
         "author": "William DiFulvio",
         "description": "DiFulvio Portfolio with A Gatsby.js Starter"
       },
       "port": "8000",
       "host": "localhost",
-      "pathPrefix": "",
-      "polyfill": true,
-      "buildTime": "2019-01-20T18:23:49.084Z",
+      "pathPrefix": "/",
+      "buildTime": "2019-01-21T00:05:59.404Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "1adcd541328426409802a76aada9bcaf",
+        "contentDigest": "5ed5fe7175eb59b9865f012e05b468fc",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1168,7 +1167,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "14693bc8c52c3caee3debe02ecf92676",
+        "contentDigest": "495af40e61345d940536f4979c3fe7e7",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1179,7 +1178,7 @@
       "size": 384,
       "prettySize": "384 B",
       "modifiedTime": "2019-01-20T01:38:39.199Z",
-      "accessTime": "2019-01-20T18:23:54.246Z",
+      "accessTime": "2019-01-21T00:06:04.297Z",
       "changeTime": "2019-01-20T01:38:39.199Z",
       "birthTime": "2018-12-20T22:50:08.588Z",
       "root": "/",
@@ -1197,11 +1196,11 @@
       "blksize": 4096,
       "ino": 12886019576,
       "blocks": 0,
-      "atimeMs": 1548008634246.24,
+      "atimeMs": 1548029164297.208,
       "mtimeMs": 1547948319199.0933,
       "ctimeMs": 1547948319199.0933,
       "birthtimeMs": 1545346208588.3696,
-      "atime": "2019-01-20T18:23:54.246Z",
+      "atime": "2019-01-21T00:06:04.297Z",
       "mtime": "2019-01-20T01:38:39.199Z",
       "ctime": "2019-01-20T01:38:39.199Z",
       "birthtime": "2018-12-20T22:50:08.588Z"
@@ -1211,7 +1210,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "b9d18ebcf4011064fbd45e2b95a5bc72",
+        "contentDigest": "7437379e46c927109363cd73f90c217d",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1222,7 +1221,7 @@
       "size": 352,
       "prettySize": "352 B",
       "modifiedTime": "2018-12-20T22:50:08.612Z",
-      "accessTime": "2019-01-20T18:23:54.250Z",
+      "accessTime": "2019-01-21T00:06:04.301Z",
       "changeTime": "2018-12-20T22:50:08.612Z",
       "birthTime": "2018-12-20T22:50:08.593Z",
       "root": "/",
@@ -1240,11 +1239,11 @@
       "blksize": 4096,
       "ino": 12886019581,
       "blocks": 0,
-      "atimeMs": 1548008634250.213,
+      "atimeMs": 1548029164300.7156,
       "mtimeMs": 1545346208612.048,
       "ctimeMs": 1545346208612.048,
       "birthtimeMs": 1545346208592.8794,
-      "atime": "2019-01-20T18:23:54.250Z",
+      "atime": "2019-01-21T00:06:04.301Z",
       "mtime": "2018-12-20T22:50:08.612Z",
       "ctime": "2018-12-20T22:50:08.612Z",
       "birthtime": "2018-12-20T22:50:08.593Z"
@@ -1254,7 +1253,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "e10c3ea3e501881ca5e8affe1ee5fc07",
+        "contentDigest": "a2c0adb32f7e7927df4db4a358dd17d3",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1265,7 +1264,7 @@
       "size": 320,
       "prettySize": "320 B",
       "modifiedTime": "2018-12-20T22:50:08.609Z",
-      "accessTime": "2019-01-20T18:23:54.253Z",
+      "accessTime": "2019-01-21T00:06:04.302Z",
       "changeTime": "2018-12-20T22:50:08.609Z",
       "birthTime": "2018-12-20T22:50:08.599Z",
       "root": "/",
@@ -1283,11 +1282,11 @@
       "blksize": 4096,
       "ino": 12886019588,
       "blocks": 0,
-      "atimeMs": 1548008634252.5496,
+      "atimeMs": 1548029164302.331,
       "mtimeMs": 1545346208609.352,
       "ctimeMs": 1545346208609.352,
       "birthtimeMs": 1545346208599.211,
-      "atime": "2019-01-20T18:23:54.253Z",
+      "atime": "2019-01-21T00:06:04.302Z",
       "mtime": "2018-12-20T22:50:08.609Z",
       "ctime": "2018-12-20T22:50:08.609Z",
       "birthtime": "2018-12-20T22:50:08.599Z"
@@ -2573,7 +2572,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "48adace848192d0f77e3538a1225188f",
+        "contentDigest": "3067f9d9517d6cce11211626347792f4",
         "mediaType": "application/octet-stream",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -2584,9 +2583,9 @@
       "extension": "",
       "size": 6148,
       "prettySize": "6.15 kB",
-      "modifiedTime": "2019-01-20T17:11:05.512Z",
-      "accessTime": "2019-01-20T17:11:05.511Z",
-      "changeTime": "2019-01-20T17:11:05.512Z",
+      "modifiedTime": "2019-01-21T00:20:39.821Z",
+      "accessTime": "2019-01-21T00:20:38.819Z",
+      "changeTime": "2019-01-21T00:20:39.821Z",
       "birthTime": "2019-01-20T01:38:13.718Z",
       "root": "/",
       "dir": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images",
@@ -2603,13 +2602,13 @@
       "blksize": 4096,
       "ino": 12887817559,
       "blocks": 16,
-      "atimeMs": 1548004265510.5134,
-      "mtimeMs": 1548004265512.0073,
-      "ctimeMs": 1548004265512.0073,
+      "atimeMs": 1548030038818.6675,
+      "mtimeMs": 1548030039820.52,
+      "ctimeMs": 1548030039820.52,
       "birthtimeMs": 1547948293717.763,
-      "atime": "2019-01-20T17:11:05.511Z",
-      "mtime": "2019-01-20T17:11:05.512Z",
-      "ctime": "2019-01-20T17:11:05.512Z",
+      "atime": "2019-01-21T00:20:38.819Z",
+      "mtime": "2019-01-21T00:20:39.821Z",
+      "ctime": "2019-01-21T00:20:39.821Z",
       "birthtime": "2019-01-20T01:38:13.718Z"
     },
     "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/profilepicbill.jpeg absPath of file": {
@@ -2676,7 +2675,7 @@
       "component": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1548008634626,
+      "updatedAt": 1548029164793,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/pages/404.js",
@@ -2685,7 +2684,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "caf3abfb500e4071304c43cefcf867b6",
+        "contentDigest": "6811ec0a51987d85c0b29f1aab619d4c",
         "owner": "internal-data-bridge"
       }
     },
@@ -2697,7 +2696,7 @@
       "component": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1548008634627,
+      "updatedAt": 1548029164795,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/pages/index.js",
@@ -2706,7 +2705,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a204e78eb6722d6ac59e89b70075e7d9",
+        "contentDigest": "87be297756175e7a57f66a99497b7547",
         "owner": "internal-data-bridge"
       }
     },
@@ -2718,7 +2717,7 @@
       "component": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1548008634629,
+      "updatedAt": 1548029164797,
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
       "componentPath": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/pages/404.js",
@@ -2727,7 +2726,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "22792277b13ccbc7c8b32b83e1228f85",
+        "contentDigest": "0c552c97e1f677fe627c68610adf0566",
         "owner": "internal-data-bridge"
       }
     }
