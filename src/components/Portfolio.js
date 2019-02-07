@@ -29,6 +29,24 @@ const Portfolio = () => (
           id="portfolio-wrapper"
           className="bgrid-quarters s-bgrid-thirds cf"
         >
+          {/* FlexLog */}
+
+          <div className="columns portfolio-item">
+            <div className="item-wrap">
+              <a href="#modal-02" title="">
+                <img alt="" src={Console} />
+                <div className="overlay">
+                  <div className="portfolio-item-meta">
+                    <h5>FlexLog </h5>
+                    <p>Full-Stack Workout Tracker</p>
+                  </div>
+                </div>
+                <div className="link-icon">
+                  <FaPlus />
+                </div>
+              </a>
+            </div>
+          </div>
           {/* Notes */}
 
           <div className="columns portfolio-item">
@@ -48,24 +66,6 @@ const Portfolio = () => (
             </div>
           </div>
 
-          {/* fitmetrix */}
-
-          <div className="columns portfolio-item">
-            <div className="item-wrap">
-              <a href="#modal-02" title="">
-                <img alt="" src={Console} />
-                <div className="overlay">
-                  <div className="portfolio-item-meta">
-                    <h5>Fitmetrix Blog</h5>
-                    <p>Daily Blog for my workout-tracker app, Fitmetrix</p>
-                  </div>
-                </div>
-                <div className="link-icon">
-                  <FaPlus />
-                </div>
-              </a>
-            </div>
-          </div>
 
         {/* Mox Draft */}
 
@@ -87,14 +87,14 @@ const Portfolio = () => (
             </div>
           </div>
 
-          {/* <div className="columns portfolio-item">
+         <div className="columns portfolio-item">
             <div className="item-wrap">
               <a href="#modal-04" title="">
                 <img alt="" src={IntoTheLight} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
-                    <h5>Into The Light</h5>
-                    <p>Photography</p>
+                    <h5>FlexBlog</h5>
+                    <p>Weekly Blog for my workout-tracker app, FlexLog</p>
                   </div>
                 </div>
                 <div className="link-icon">
@@ -102,7 +102,7 @@ const Portfolio = () => (
                 </div>
               </a>
             </div>
-          </div> */}
+          </div> 
 
           {/* <div className="columns portfolio-item">
             <div className="item-wrap">
@@ -176,6 +176,30 @@ const Portfolio = () => (
       </div>
 
       {/* POPUPS */}
+      {/* FlexLog Popup */}
+
+      <div id="modal-02" className="popup-modal mfp-hide">
+        <img className="scale-with-grid" src={ConsoleModal} alt="" />
+
+        <div className="description-box">
+          <h4>FlexLog</h4>
+          <p>
+            Workout-Tracking Application where users can create and schedule custom 
+            workouts as well as track their progress.
+          </p>
+          <span className="categories">
+            <FaTag />
+            Full-Stack, Team-Project, React, Hooks, Node.js
+          </span>
+        </div>
+
+        <div className="link-box">
+          <a href="https://flexlog.netlify.com/" target="_blank">Visit</a>
+          <a href="#portfolio" className="popup-modal-dismiss">
+            Close
+          </a>
+        </div>
+      </div>
 
       {/* Notes App Popup */}
       <div id="modal-01" className="popup-modal mfp-hide">
@@ -202,31 +226,8 @@ const Portfolio = () => (
         </div>
       </div>
 
-      {/* FitMetrix Popup */}
 
-      <div id="modal-02" className="popup-modal mfp-hide">
-        <img className="scale-with-grid" src={ConsoleModal} alt="" />
-
-        <div className="description-box">
-          <h4>Fitmetrix Blog</h4>
-          <p>
-            Daily Blog as I built my workout-tracker app, fitmetrix. From day 1
-            decisions like data structure, through design and presentation.
-          </p>
-          <span className="categories">
-            <FaTag />
-            Full-Stack, Team-Project, React
-          </span>
-        </div>
-
-        <div className="link-box">
-          <a href="https://billd-labs-blog.netlify.com/" target="_blank">Visit</a>
-          <a href="#portfolio" className="popup-modal-dismiss">
-            Close
-          </a>
-        </div>
-      </div>
-
+      {/* Mox Popup */}
       <div id="modal-03" className="popup-modal mfp-hide">
         <img className="scale-with-grid" src={JudahModal} alt="" />
 
@@ -250,29 +251,29 @@ const Portfolio = () => (
         </div>
       </div>
 
-      {/* <div id="modal-04" className="popup-modal mfp-hide">
+      {/* FlexBlog Popup */}
+      <div id="modal-04" className="popup-modal mfp-hide">
         <img className="scale-with-grid" src={IntoTheLightModal} alt="" />
 
         <div className="description-box">
-          <h4>Into the Light</h4>
+          <h4>FlexBlog</h4>
           <p>
-            Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin,
-            lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis
-            sem nibh id elit.
+          Weekly Blog as I built my workout-tracker app, FlexLog. From day 1
+            decisions like data structure, through design and presentation.
           </p>
           <span className="categories">
             <FaTag />
-            Photography
+            Blog
           </span>
         </div>
 
         <div className="link-box">
-          <a href="http://www.behance.net">Details</a>
+          <a href="https://billd-labs-blog.netlify.com/">Details</a>
           <a href="#portfolio" className="popup-modal-dismiss">
             Close
           </a>
         </div>
-      </div> */}
+      </div> 
 
       {/* <div id="modal-05" className="popup-modal mfp-hide">
         <img className="scale-with-grid" src={FarmerboyModal} alt="" />
