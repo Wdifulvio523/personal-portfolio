@@ -8,7 +8,7 @@
       "component": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1551396878025,
+      "updatedAt": 1551399051930,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
       "componentPath": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/.cache/dev-404-page.js",
@@ -17,7 +17,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "50783dc692c7c2524fa09bbee326b7e0",
+        "contentDigest": "5594320ce0c0d816ee0b7f9bc94758e8",
         "owner": "internal-data-bridge"
       }
     },
@@ -1153,12 +1153,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-02-28T23:20:32.730Z",
+      "buildTime": "2019-03-01T00:02:39.556Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "c2214a86f78625e1768f60158f19371f",
+        "contentDigest": "f4f583df08a3139e60a840815f28c54f",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1168,7 +1168,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "17a7c85816b2443ddd599b2dba2adca1",
+        "contentDigest": "bcd78f1cd7f2e23e943f0d71da84e9b8",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1178,9 +1178,9 @@
       "extension": "",
       "size": 416,
       "prettySize": "416 B",
-      "modifiedTime": "2019-02-28T23:20:10.585Z",
-      "accessTime": "2019-02-28T23:20:37.963Z",
-      "changeTime": "2019-02-28T23:20:10.585Z",
+      "modifiedTime": "2019-02-28T23:34:37.810Z",
+      "accessTime": "2019-03-01T00:02:47.267Z",
+      "changeTime": "2019-02-28T23:34:37.810Z",
       "birthTime": "2018-12-20T22:50:08.588Z",
       "root": "/",
       "dir": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets",
@@ -1197,13 +1197,13 @@
       "blksize": 4096,
       "ino": 12886019576,
       "blocks": 0,
-      "atimeMs": 1551396037963.3867,
-      "mtimeMs": 1551396010584.8743,
-      "ctimeMs": 1551396010584.8743,
+      "atimeMs": 1551398567267.2617,
+      "mtimeMs": 1551396877810,
+      "ctimeMs": 1551396877810,
       "birthtimeMs": 1545346208588.3696,
-      "atime": "2019-02-28T23:20:37.963Z",
-      "mtime": "2019-02-28T23:20:10.585Z",
-      "ctime": "2019-02-28T23:20:10.585Z",
+      "atime": "2019-03-01T00:02:47.267Z",
+      "mtime": "2019-02-28T23:34:37.810Z",
+      "ctime": "2019-02-28T23:34:37.810Z",
       "birthtime": "2018-12-20T22:50:08.588Z"
     },
     "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/portfolio absPath of file": {
@@ -1211,7 +1211,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "9415e8d02d7cc2d84dfb82dfed5a44a0",
+        "contentDigest": "7d9cbe9b7deccd5fb720dbc2925f53bd",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1222,7 +1222,7 @@
       "size": 352,
       "prettySize": "352 B",
       "modifiedTime": "2018-12-20T22:50:08.612Z",
-      "accessTime": "2019-02-28T23:20:37.968Z",
+      "accessTime": "2019-03-01T00:02:47.273Z",
       "changeTime": "2018-12-20T22:50:08.612Z",
       "birthTime": "2018-12-20T22:50:08.593Z",
       "root": "/",
@@ -1240,11 +1240,11 @@
       "blksize": 4096,
       "ino": 12886019581,
       "blocks": 0,
-      "atimeMs": 1551396037967.6877,
+      "atimeMs": 1551398567273.063,
       "mtimeMs": 1545346208612.048,
       "ctimeMs": 1545346208612.048,
       "birthtimeMs": 1545346208592.8794,
-      "atime": "2019-02-28T23:20:37.968Z",
+      "atime": "2019-03-01T00:02:47.273Z",
       "mtime": "2018-12-20T22:50:08.612Z",
       "ctime": "2018-12-20T22:50:08.612Z",
       "birthtime": "2018-12-20T22:50:08.593Z"
@@ -1254,7 +1254,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "d5806c7c8f2f43ded99aa5407bdbea3c",
+        "contentDigest": "e754a3875c92359ee7c219841ea2af0e",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1265,7 +1265,7 @@
       "size": 320,
       "prettySize": "320 B",
       "modifiedTime": "2018-12-20T22:50:08.609Z",
-      "accessTime": "2019-02-28T23:20:37.970Z",
+      "accessTime": "2019-03-01T00:02:47.279Z",
       "changeTime": "2018-12-20T22:50:08.609Z",
       "birthTime": "2018-12-20T22:50:08.599Z",
       "root": "/",
@@ -1283,11 +1283,11 @@
       "blksize": 4096,
       "ino": 12886019588,
       "blocks": 0,
-      "atimeMs": 1551396037969.5977,
+      "atimeMs": 1551398567279.21,
       "mtimeMs": 1545346208609.352,
       "ctimeMs": 1545346208609.352,
       "birthtimeMs": 1545346208599.211,
-      "atime": "2019-02-28T23:20:37.970Z",
+      "atime": "2019-03-01T00:02:47.279Z",
       "mtime": "2018-12-20T22:50:08.609Z",
       "ctime": "2018-12-20T22:50:08.609Z",
       "birthtime": "2018-12-20T22:50:08.599Z"
@@ -2676,7 +2676,7 @@
       "component": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1551396038368,
+      "updatedAt": 1551398568544,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/pages/404.js",
@@ -2685,7 +2685,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "572fede0bb947e68127378398acbc4d2",
+        "contentDigest": "c892f87144bd53d8d67f1d5e4bfb880b",
         "owner": "internal-data-bridge"
       }
     },
@@ -2697,7 +2697,7 @@
       "component": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1551396038370,
+      "updatedAt": 1551398568547,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/pages/index.js",
@@ -2706,7 +2706,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "bdb7879337a72a08a8865bdf1b8c79aa",
+        "contentDigest": "ccac10a41023a23875aa26d2416a163a",
         "owner": "internal-data-bridge"
       }
     },
@@ -2718,7 +2718,7 @@
       "component": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1551396038372,
+      "updatedAt": 1551398568552,
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
       "componentPath": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/pages/404.js",
@@ -2727,37 +2727,37 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b6a0a38bfccfd0d0cbcb7daef9738ee8",
+        "contentDigest": "325cfce145f790c13715e8e5275107d6",
         "owner": "internal-data-bridge"
       }
     },
-    "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/astronomy-constellation-dark-358513.jpg absPath of file": {
-      "id": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/astronomy-constellation-dark-358513.jpg absPath of file",
+    "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/architecture-black-and-white-buildings-316902.jpg absPath of file": {
+      "id": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/architecture-black-and-white-buildings-316902.jpg absPath of file",
       "children": [
-        "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/astronomy-constellation-dark-358513.jpg absPath of file >> ImageSharp"
+        "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/architecture-black-and-white-buildings-316902.jpg absPath of file >> ImageSharp"
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "88f0e47f8cc484bf50c7a3041b828044",
+        "contentDigest": "b75d5daa714a55759f144db8fb10fe3a",
         "mediaType": "image/jpeg",
         "type": "File",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "images",
-      "absolutePath": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/astronomy-constellation-dark-358513.jpg",
-      "relativePath": "astronomy-constellation-dark-358513.jpg",
+      "absolutePath": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/architecture-black-and-white-buildings-316902.jpg",
+      "relativePath": "architecture-black-and-white-buildings-316902.jpg",
       "extension": "jpg",
-      "size": 2879975,
-      "prettySize": "2.88 MB",
-      "modifiedTime": "2019-02-28T23:26:44.006Z",
-      "accessTime": "2019-02-28T23:26:44.073Z",
-      "changeTime": "2019-02-28T23:26:44.010Z",
-      "birthTime": "2019-02-28T23:26:43.989Z",
+      "size": 938021,
+      "prettySize": "938 kB",
+      "modifiedTime": "2019-03-01T00:05:41.924Z",
+      "accessTime": "2019-03-01T00:05:43.285Z",
+      "changeTime": "2019-03-01T00:05:51.647Z",
+      "birthTime": "2019-03-01T00:05:40.786Z",
       "root": "/",
       "dir": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images",
-      "base": "astronomy-constellation-dark-358513.jpg",
+      "base": "architecture-black-and-white-buildings-316902.jpg",
       "ext": ".jpg",
-      "name": "astronomy-constellation-dark-358513",
+      "name": "architecture-black-and-white-buildings-316902",
       "relativeDirectory": "",
       "dev": 16777220,
       "mode": 33188,
@@ -2766,23 +2766,23 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 12889586779,
-      "blocks": 5632,
-      "atimeMs": 1551396404073.4792,
-      "mtimeMs": 1551396404005.8342,
-      "ctimeMs": 1551396404010.4924,
-      "birthtimeMs": 1551396403989.4663,
-      "atime": "2019-02-28T23:26:44.073Z",
-      "mtime": "2019-02-28T23:26:44.006Z",
-      "ctime": "2019-02-28T23:26:44.010Z",
-      "birthtime": "2019-02-28T23:26:43.989Z"
+      "ino": 12889591121,
+      "blocks": 1888,
+      "atimeMs": 1551398743285.254,
+      "mtimeMs": 1551398741924.292,
+      "ctimeMs": 1551398751646.6619,
+      "birthtimeMs": 1551398740786.4976,
+      "atime": "2019-03-01T00:05:43.285Z",
+      "mtime": "2019-03-01T00:05:41.924Z",
+      "ctime": "2019-03-01T00:05:51.647Z",
+      "birthtime": "2019-03-01T00:05:40.786Z"
     },
-    "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/astronomy-constellation-dark-358513.jpg absPath of file >> ImageSharp": {
-      "id": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/astronomy-constellation-dark-358513.jpg absPath of file >> ImageSharp",
+    "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/architecture-black-and-white-buildings-316902.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/architecture-black-and-white-buildings-316902.jpg absPath of file >> ImageSharp",
       "children": [],
-      "parent": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/astronomy-constellation-dark-358513.jpg absPath of file",
+      "parent": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/architecture-black-and-white-buildings-316902.jpg absPath of file",
       "internal": {
-        "contentDigest": "88f0e47f8cc484bf50c7a3041b828044",
+        "contentDigest": "b75d5daa714a55759f144db8fb10fe3a",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
