@@ -8,7 +8,7 @@
       "component": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1551399051930,
+      "updatedAt": 1551399202905,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
       "componentPath": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/.cache/dev-404-page.js",
@@ -17,7 +17,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5594320ce0c0d816ee0b7f9bc94758e8",
+        "contentDigest": "e71290a704f36c63385e6207ce2efdc9",
         "owner": "internal-data-bridge"
       }
     },
@@ -2783,6 +2783,62 @@
       "parent": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/architecture-black-and-white-buildings-316902.jpg absPath of file",
       "internal": {
         "contentDigest": "b75d5daa714a55759f144db8fb10fe3a",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/IMG_1552.jpg absPath of file": {
+      "id": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/IMG_1552.jpg absPath of file",
+      "children": [
+        "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/IMG_1552.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "4e941ecbad18eae1b70971de7eba721e",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/IMG_1552.jpg",
+      "relativePath": "IMG_1552.jpg",
+      "extension": "jpg",
+      "size": 1704904,
+      "prettySize": "1.7 MB",
+      "modifiedTime": "2019-02-16T23:12:21.000Z",
+      "accessTime": "2019-03-01T00:13:22.714Z",
+      "changeTime": "2019-03-01T00:13:22.292Z",
+      "birthTime": "2019-02-16T23:12:21.000Z",
+      "root": "/",
+      "dir": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images",
+      "base": "IMG_1552.jpg",
+      "ext": ".jpg",
+      "name": "IMG_1552",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 12889591615,
+      "blocks": 3336,
+      "atimeMs": 1551399202713.5715,
+      "mtimeMs": 1550358741000,
+      "ctimeMs": 1551399202292.4963,
+      "birthtimeMs": 1550358741000,
+      "atime": "2019-03-01T00:13:22.714Z",
+      "mtime": "2019-02-16T23:12:21.000Z",
+      "ctime": "2019-03-01T00:13:22.292Z",
+      "birthtime": "2019-02-16T23:12:21.000Z"
+    },
+    "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/IMG_1552.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/IMG_1552.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/lambda_school_loaner_46/LambdaSchool/personal-portfolio/src/assets/images/IMG_1552.jpg absPath of file",
+      "internal": {
+        "contentDigest": "4e941ecbad18eae1b70971de7eba721e",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
